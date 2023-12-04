@@ -159,6 +159,15 @@ white$quantumcatch_blue_dark_bground<-white$quantum_catch_OM/blue_fabric_dark_qc
 red$quantumcatch_blue_dark_bground<-red$quantum_catch_OM/blue_fabric_dark_qc2$blue_fabric_dark_qc
 qc_final_jerlovIb<-rbind(royalblue,blue,cyan,green,amber,red,white)
 
+##for each species, sum  each column and divide by length of each species group
+
+library(dplyr)
+qc_final_jerlov_new <- qc_final_jerlovIb %>%
+  group_by(species, colour) %>%
+  mutate(qc_total_dark_bground=sum(quantumcatch_blue_dark_bground)/length(species))
+
+qc_final_jerlov_new2<-qc_final_jerlov_new%>% distinct(colour, .keep_all = TRUE)
+
 
 ########PLAICE, SKATE AND CATSHARKS OCULAR MEDIA#######
 
@@ -258,91 +267,94 @@ led_normalised
 
 
 ####### QUANTUM CATCH OUTPUTS#########
+##remove row containing cyan as this wasnt tested
+qc_final_jerlov_new3<-qc_final_jerlov_new2[- grep("cyan", qc_final_jerlov_new2$colour),]
 
-catshark_red<-subset(red, red$species=="catshark")
-catshark_amber<-subset(amber, amber$species=="catshark")
-catshark_blue<-subset(blue, blue$species=="catshark")
-catshark_royalblue<-subset(royalblue, royalblue$species=="catshark")
-#plaice_cyan<-subset(cyan, cyan$species=="plaice")
-catshark_green<-subset(green, green$species=="catshark")
-catshark_white<-subset(white, white$species=="catshark")
-catshark_qc<-rbind(catshark_royalblue,catshark_blue,catshark_green,catshark_amber,catshark_red,catshark_white)
+##subset to get plaice
+plaice<-subset(qc_final_jerlov_new3, qc_final_jerlov_new3$species=="plaice")
+catshark<-subset(qc_final_jerlov_new3, qc_final_jerlov_new3$species=="catshark")
+skate<-subset(qc_final_jerlov_new3, qc_final_jerlov_new3$species=="thornbackray")
 
-cols <- c("turquoise3")
+cols <- c("turquoise4")
 
-colourplot_catshark<-ggplot(catshark_qc, aes(fill=photoreceptor,y=quantumcatch_blue_dark_bground, x=colour)) +
+colourplot_catshark<-ggplot(catshark, aes(fill=photoreceptor,y=qc_total_dark_bground, x=colour)) +
   geom_bar(position="stack", stat="identity")+
   labs(x = "Light colour mode", 
-       y = "Catshark visual stimulation in tank")+
+       y = "Visual stimulation in tank")+
   theme_bw()+
-  ylim(0,9)+
-  theme(legend.position = "none")+       
+  ylim(0,2.5)+
+  theme(legend.position = "none")+ 
+  theme(axis.title.x=element_blank())+
+  theme(axis.title.y=element_blank())+
   theme(text = element_text(size=10))+
   scale_x_discrete(labels = label_wrap(10)) +  theme(text = element_text(size=10))+
   scale_x_discrete(labels=c('Amber','Blue','Green','Red','Royal blue','White'))+
   scale_fill_manual(name="rod", values = cols)
+
 colourplot_catshark
 
 
 ##skate
-skate_red<-subset(red, red$species=="thornbackray")
-skate_amber<-subset(amber, amber$species=="thornbackray")
-skate_blue<-subset(blue, blue$species=="thornbackray")
-skate_royalblue<-subset(royalblue, royalblue$species=="thornbackray")
-#plaice_cyan<-subset(cyan, cyan$species=="plaice")
-skate_green<-subset(green, green$species=="thornbackray")
-skate_white<-subset(white, white$species=="thornbackray")
-skate_qc<-rbind(skate_royalblue,skate_blue,skate_green,skate_amber,skate_red,skate_white)
 
 cols <- c("turquoise3")
 
-colourplot_skate<-ggplot(skate_qc, aes(fill=photoreceptor, y=quantumcatch_blue_dark_bground, x=colour)) +
+colourplot_skate<-ggplot(skate, aes(fill=photoreceptor, y=qc_total_dark_bground, x=colour)) +
   geom_bar(position="stack", stat="identity")+
   labs(x = "Light colour mode", 
-       y = "Skate visual stimualtion in tank")+
-  ylim(0,9)+
+       y = "Visual stimulation in tank")+
   theme_bw()+
-  theme(legend.position = "none")+       
+  ylim(0,2.5)+
+  theme(legend.position = "none")+ 
+  theme(axis.title.x=element_blank())+
+  theme(axis.title.y=element_blank())+
   theme(text = element_text(size=10))+
   scale_x_discrete(labels = label_wrap(10)) +  theme(text = element_text(size=10))+
   scale_x_discrete(labels=c('Amber','Blue','Green','Red','Royal blue','White'))+
-  scale_fill_manual(values = cols)
+  scale_fill_manual(name="rod", values = cols)
 #  scale_fill_grey(start = 0.7, end=0.5)
 colourplot_skate
 
 ##plaice
-plaice_red<-subset(red, red$species=="plaice")
-plaice_amber<-subset(amber, amber$species=="plaice")
-plaice_blue<-subset(blue, blue$species=="plaice")
-plaice_royalblue<-subset(royalblue, royalblue$species=="plaice")
-#plaice_cyan<-subset(cyan, cyan$species=="plaice")
-plaice_green<-subset(green, green$species=="plaice")
-plaice_white<-subset(white, white$species=="plaice")
-plaice_qc<-rbind(plaice_royalblue,plaice_blue,plaice_green,plaice_amber,plaice_red,plaice_white)
+cols <- c("darkslategrey")
 
-cols <- c("darkslategrey", "turquoise4", "turquoise3", "cadetblue1")
-
-colourplot_plaice<-ggplot(plaice_qc, aes(fill=photoreceptor, y=quantumcatch_blue_dark_bground, x=colour)) +
+colourplot_plaice<-ggplot(plaice, aes(fill=photoreceptor, y=qc_total_dark_bground, x=colour)) +
   geom_bar(position="stack", stat="identity")+
   labs(x = "Light colour mode", 
-       y = "Plaice visual stimualtion in tank",
-       fill="Photoreceptor type")+
-  ylim(0,9)+
+       y = "Visual stimulation in tank")+
   theme_bw()+
+  ylim(0,2.5)+
+  theme(legend.position = "none")+ 
+  theme(axis.title.x=element_blank())+
   theme(text = element_text(size=10))+
   scale_x_discrete(labels = label_wrap(10)) +  theme(text = element_text(size=10))+
   scale_x_discrete(labels=c('Amber','Blue','Green','Red','Royal blue','White'))+
-  scale_fill_manual(values=c("darkslategrey", "turquoise4", "turquoise3", "cadetblue1"), 
-                    name="Photoreceptor type",
-                    breaks=c("lw", "mw", "rod","sw"),
-                    labels=c("LW", "MW", "Rod","SW"))
+  scale_fill_manual(name="rod", values = cols)
+#  scale_fill_grey(start = 0.7, end=0.5)
 colourplot_plaice
+
+##old plot
+#cols <- c("darkslategrey", "turquoise4", "turquoise3", "cadetblue1")
+
+#colourplot_plaice<-ggplot(plaice_qc, aes(fill=photoreceptor, y=quantumcatch_blue_dark_bground, x=colour)) +
+#  geom_bar(position="stack", stat="identity")+
+#  labs(x = "Light colour mode", 
+#       y = "Plaice visual stimualtion in tank",
+#       fill="Photoreceptor type")+
+#  ylim(0,9)+
+#  theme_bw()+
+#  theme(text = element_text(size=10))+
+#  scale_x_discrete(labels = label_wrap(10)) +  theme(text = element_text(size=10))+
+#  scale_x_discrete(labels=c('Amber','Blue','Green','Red','Royal blue','White'))+
+#  scale_fill_manual(values=c("darkslategrey", "turquoise4", "turquoise3", "cadetblue1"), 
+#                    name="Photoreceptor type",
+#                    breaks=c("lw", "mw", "rod","sw"),
+#                    labels=c("LW", "MW", "Rod","SW"))
+#colourplot_plaice
 
 #scale_fill_grey(start = 0.3, end=0.9, labels=c('LW', 'MW', 'Rod', 'SW'))
 
 
-ggarrange(colourplot_plaice,colourplot_catshark+theme(legend.position="none"),colourplot_skate+theme(legend.position="none"), ncol=3, nrow=1, common.legend = TRUE,
-          legend = "bottom")
+ggarrange(colourplot_plaice,colourplot_catshark+theme(legend.position="none"),colourplot_skate+theme(legend.position="none"), ncol=3, nrow=1)
 
 ##########ocular media plots Thorpe et al#######
 #plaice, skate, catshark ocular media
@@ -358,4 +370,3 @@ chap2ocmedia<-ggplot(data=(plaice_lens),aes(x = wavelength, y = sensitivity))+
   Theme
 
 chap2ocmedia
-
