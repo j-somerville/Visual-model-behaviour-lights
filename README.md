@@ -1,2 +1,2 @@
 # Visual-model-behaviour-lights
-Use of a vision model to determine how fish view different coloured LEDs in tanks. Assessing whether the model can be linked to behavioural responses to lights.
+Use of a vision model to determine how UK target and bycatch fish species view different coloured LEDs in tanks. Assessing whether the model can be linked to behavioural responses to lights. This information can hopefully be applied to future fishing with light trials, where light on fishing gear has been shown to reduce bycatch. The folders contain R scripts and csv files for the vision model (a quantum-catch model) and csv files of behavioural responses of plaice, skates and catsharks towards light.
