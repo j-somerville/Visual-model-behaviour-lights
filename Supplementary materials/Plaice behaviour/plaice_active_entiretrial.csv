@@ -1,0 +1,5 @@
+time,code,class,light_order,light_colour,light_type,type_order,light_side,control_side,trial_number,length,light_mode,LightFact,TypeFact,control_light,sum.total2.
+43.734,active,12,2,royalblue,continuous,1,right,left,8,29.779,off,off,off,both,0
+569.734,active,25,2,white,flashing,2,left,right,5,29.061,off,off,off,both,0
+338.766,active,11,2,royalblue,continuous,1,right,left,8,29.779,on,royalblue,continuous,both,0
+602.105,active,0,2,white,flashing,2,left,right,5,29.061,on,white,flashing,both,0

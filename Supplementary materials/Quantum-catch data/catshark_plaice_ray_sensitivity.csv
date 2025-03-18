@@ -1,0 +1,2407 @@
+wavelength,species,dl,sensitivity,photoreceptor
+300,catshark,dark,0.132189818,rod
+301,catshark,dark,0.135997661,rod
+302,catshark,dark,0.13983139,rod
+303,catshark,dark,0.143687121,rod
+304,catshark,dark,0.147560825,rod
+305,catshark,dark,0.151448339,rod
+306,catshark,dark,0.15534537,rod
+307,catshark,dark,0.159247503,rod
+308,catshark,dark,0.163150211,rod
+309,catshark,dark,0.167048863,rod
+310,catshark,dark,0.170938732,rod
+311,catshark,dark,0.174815005,rod
+312,catshark,dark,0.178672797,rod
+313,catshark,dark,0.182507157,rod
+314,catshark,dark,0.186313082,rod
+315,catshark,dark,0.190085528,rod
+316,catshark,dark,0.193819424,rod
+317,catshark,dark,0.19750968,rod
+318,catshark,dark,0.201151208,rod
+319,catshark,dark,0.204738926,rod
+320,catshark,dark,0.208267779,rod
+321,catshark,dark,0.211732748,rod
+322,catshark,dark,0.215128866,rod
+323,catshark,dark,0.218451233,rod
+324,catshark,dark,0.221695027,rod
+325,catshark,dark,0.224855522,rod
+326,catshark,dark,0.227928098,rod
+327,catshark,dark,0.23090826,rod
+328,catshark,dark,0.233791647,rod
+329,catshark,dark,0.236574049,rod
+330,catshark,dark,0.239251421,rod
+331,catshark,dark,0.241819895,rod
+332,catshark,dark,0.244275791,rod
+333,catshark,dark,0.246615635,rod
+334,catshark,dark,0.248836167,rod
+335,catshark,dark,0.250934355,rod
+336,catshark,dark,0.252907403,rod
+337,catshark,dark,0.254752769,rod
+338,catshark,dark,0.256468166,rod
+339,catshark,dark,0.258051581,rod
+340,catshark,dark,0.259501274,rod
+341,catshark,dark,0.260815798,rod
+342,catshark,dark,0.261993995,rod
+343,catshark,dark,0.263035011,rod
+344,catshark,dark,0.2639383,rod
+345,catshark,dark,0.264703625,rod
+346,catshark,dark,0.265331071,rod
+347,catshark,dark,0.26582104,rod
+348,catshark,dark,0.266174261,rod
+349,catshark,dark,0.266391786,rod
+350,catshark,dark,0.266474996,rod
+351,catshark,dark,0.266425598,rod
+352,catshark,dark,0.266245627,rod
+353,catshark,dark,0.265937443,rod
+354,catshark,dark,0.265503729,rod
+355,catshark,dark,0.264947489,rod
+356,catshark,dark,0.264272043,rod
+357,catshark,dark,0.263481023,rod
+358,catshark,dark,0.262578367,rod
+359,catshark,dark,0.261568315,rod
+360,catshark,dark,0.260455399,rod
+361,catshark,dark,0.259244439,rod
+362,catshark,dark,0.257940529,rod
+363,catshark,dark,0.256549037,rod
+364,catshark,dark,0.255075587,rod
+365,catshark,dark,0.253526055,rod
+366,catshark,dark,0.251906554,rod
+367,catshark,dark,0.250223426,rod
+368,catshark,dark,0.248483232,rod
+369,catshark,dark,0.246692734,rod
+370,catshark,dark,0.244858891,rod
+371,catshark,dark,0.242988838,rod
+372,catshark,dark,0.241089881,rod
+373,catshark,dark,0.239169477,rod
+374,catshark,dark,0.237235229,rod
+375,catshark,dark,0.235294862,rod
+376,catshark,dark,0.233356219,rod
+377,catshark,dark,0.231427241,rod
+378,catshark,dark,0.229515959,rod
+379,catshark,dark,0.227630474,rod
+380,catshark,dark,0.225778946,rod
+381,catshark,dark,0.223969583,rod
+382,catshark,dark,0.222210622,rod
+383,catshark,dark,0.22051032,rod
+384,catshark,dark,0.218876938,rod
+385,catshark,dark,0.217318729,rod
+386,catshark,dark,0.215843922,rod
+387,catshark,dark,0.214460712,rod
+388,catshark,dark,0.213177247,rod
+389,catshark,dark,0.212001612,rod
+390,catshark,dark,0.210941821,rod
+391,catshark,dark,0.210005799,rod
+392,catshark,dark,0.209201377,rod
+393,catshark,dark,0.208536272,rod
+394,catshark,dark,0.208018081,rod
+395,catshark,dark,0.207654268,rod
+396,catshark,dark,0.207452149,rod
+397,catshark,dark,0.207418888,rod
+398,catshark,dark,0.207561477,rod
+399,catshark,dark,0.207886733,rod
+400,catshark,dark,0.208401283,rod
+401,catshark,dark,0.209111552,rod
+402,catshark,dark,0.210023758,rod
+403,catshark,dark,0.211143895,rod
+404,catshark,dark,0.21247773,rod
+405,catshark,dark,0.214030786,rod
+406,catshark,dark,0.215808336,rod
+407,catshark,dark,0.217815392,rod
+408,catshark,dark,0.220056697,rod
+409,catshark,dark,0.222536714,rod
+410,catshark,dark,0.225259614,rod
+411,catshark,dark,0.228229273,rod
+412,catshark,dark,0.231449257,rod
+413,catshark,dark,0.234922818,rod
+414,catshark,dark,0.23865288,rod
+415,catshark,dark,0.242642035,rod
+416,catshark,dark,0.246892533,rod
+417,catshark,dark,0.251406273,rod
+418,catshark,dark,0.256184798,rod
+419,catshark,dark,0.261229285,rod
+420,catshark,dark,0.266540538,rod
+421,catshark,dark,0.272118985,rod
+422,catshark,dark,0.277964667,rod
+423,catshark,dark,0.284077237,rod
+424,catshark,dark,0.29045595,rod
+425,catshark,dark,0.297099662,rod
+426,catshark,dark,0.304006825,rod
+427,catshark,dark,0.311175485,rod
+428,catshark,dark,0.318603276,rod
+429,catshark,dark,0.326287424,rod
+430,catshark,dark,0.334224738,rod
+431,catshark,dark,0.342411617,rod
+432,catshark,dark,0.350844049,rod
+433,catshark,dark,0.359517609,rod
+434,catshark,dark,0.368427465,rod
+435,catshark,dark,0.377568381,rod
+436,catshark,dark,0.386934722,rod
+437,catshark,dark,0.396520455,rod
+438,catshark,dark,0.40631916,rod
+439,catshark,dark,0.416324036,rod
+440,catshark,dark,0.426527909,rod
+441,catshark,dark,0.436923239,rod
+442,catshark,dark,0.447502133,rod
+443,catshark,dark,0.458256352,rod
+444,catshark,dark,0.469177328,rod
+445,catshark,dark,0.480256168,rod
+446,catshark,dark,0.491483677,rod
+447,catshark,dark,0.50285036,rod
+448,catshark,dark,0.514346445,rod
+449,catshark,dark,0.525961894,rod
+450,catshark,dark,0.537686414,rod
+451,catshark,dark,0.549509479,rod
+452,catshark,dark,0.561420338,rod
+453,catshark,dark,0.573408033,rod
+454,catshark,dark,0.585461415,rod
+455,catshark,dark,0.597569156,rod
+456,catshark,dark,0.609719765,rod
+457,catshark,dark,0.6219016,rod
+458,catshark,dark,0.634102886,rod
+459,catshark,dark,0.646311723,rod
+460,catshark,dark,0.6585161,rod
+461,catshark,dark,0.670703908,rod
+462,catshark,dark,0.68286295,rod
+463,catshark,dark,0.69498095,rod
+464,catshark,dark,0.707045564,rod
+465,catshark,dark,0.719044389,rod
+466,catshark,dark,0.730964965,rod
+467,catshark,dark,0.742794789,rod
+468,catshark,dark,0.754521316,rod
+469,catshark,dark,0.766131964,rod
+470,catshark,dark,0.77761412,rod
+471,catshark,dark,0.788955139,rod
+472,catshark,dark,0.800142351,rod
+473,catshark,dark,0.81116306,rod
+474,catshark,dark,0.822004545,rod
+475,catshark,dark,0.832654061,rod
+476,catshark,dark,0.843098842,rod
+477,catshark,dark,0.853326094,rod
+478,catshark,dark,0.863323004,rod
+479,catshark,dark,0.873076734,rod
+480,catshark,dark,0.882574425,rod
+481,catshark,dark,0.891803198,rod
+482,catshark,dark,0.900750152,rod
+483,catshark,dark,0.909402374,rod
+484,catshark,dark,0.917746938,rod
+485,catshark,dark,0.925770912,rod
+486,catshark,dark,0.933461367,rod
+487,catshark,dark,0.940805384,rod
+488,catshark,dark,0.94779007,rod
+489,catshark,dark,0.954402566,rod
+490,catshark,dark,0.960630068,rod
+491,catshark,dark,0.966459845,rod
+492,catshark,dark,0.971879264,rod
+493,catshark,dark,0.976875813,rod
+494,catshark,dark,0.981437131,rod
+495,catshark,dark,0.985551044,rod
+496,catshark,dark,0.989205599,rod
+497,catshark,dark,0.992389104,rod
+498,catshark,dark,0.995090174,rod
+499,catshark,dark,0.997297778,rod
+500,catshark,dark,0.999001292,rod
+501,catshark,dark,1.000190551,rod
+502,catshark,dark,1.000855909,rod
+503,catshark,dark,1.000988302,rod
+504,catshark,dark,1.000579309,rod
+505,catshark,dark,0.999621217,rod
+506,catshark,dark,0.998107091,rod
+507,catshark,dark,0.996030845,rod
+508,catshark,dark,0.993387302,rod
+509,catshark,dark,0.990172274,rod
+510,catshark,dark,0.98638262,rod
+511,catshark,dark,0.982016317,rod
+512,catshark,dark,0.977072521,rod
+513,catshark,dark,0.971551627,rod
+514,catshark,dark,0.965455321,rod
+515,catshark,dark,0.95878663,rod
+516,catshark,dark,0.951549966,rod
+517,catshark,dark,0.943751158,rod
+518,catshark,dark,0.935397479,rod
+519,catshark,dark,0.926497665,rod
+520,catshark,dark,0.917061918,rod
+521,catshark,dark,0.907101913,rod
+522,catshark,dark,0.896630772,rod
+523,catshark,dark,0.88566305,rod
+524,catshark,dark,0.874214695,rod
+525,catshark,dark,0.862303002,rod
+526,catshark,dark,0.849946555,rod
+527,catshark,dark,0.837165158,rod
+528,catshark,dark,0.82397976,rod
+529,catshark,dark,0.810412362,rod
+530,catshark,dark,0.796485926,rod
+531,catshark,dark,0.782224265,rod
+532,catshark,dark,0.76765194,rod
+533,catshark,dark,0.752794137,rod
+534,catshark,dark,0.737676552,rod
+535,catshark,dark,0.722325267,rod
+536,catshark,dark,0.706766627,rod
+537,catshark,dark,0.691027117,rod
+538,catshark,dark,0.675133239,rod
+539,catshark,dark,0.659111395,rod
+540,catshark,dark,0.64298777,rod
+541,catshark,dark,0.626788226,rod
+542,catshark,dark,0.610538194,rod
+543,catshark,dark,0.594262583,rod
+544,catshark,dark,0.577985687,rod
+545,catshark,dark,0.561731111,rod
+546,catshark,dark,0.545521695,rod
+547,catshark,dark,0.529379456,rod
+548,catshark,dark,0.513325538,rod
+549,catshark,dark,0.497380164,rod
+550,catshark,dark,0.481562608,rod
+551,catshark,dark,0.465891171,rod
+552,catshark,dark,0.450383161,rod
+553,catshark,dark,0.435054891,rod
+554,catshark,dark,0.419921673,rod
+555,catshark,dark,0.404997832,rod
+556,catshark,dark,0.390296712,rod
+557,catshark,dark,0.375830695,rod
+558,catshark,dark,0.361611228,rod
+559,catshark,dark,0.347648841,rod
+560,catshark,dark,0.333953179,rod
+561,catshark,dark,0.320533031,rod
+562,catshark,dark,0.307396363,rod
+563,catshark,dark,0.294550344,rod
+564,catshark,dark,0.282001381,rod
+565,catshark,dark,0.269755147,rod
+566,catshark,dark,0.257816606,rod
+567,catshark,dark,0.246190047,rod
+568,catshark,dark,0.234879099,rod
+569,catshark,dark,0.223886758,rod
+570,catshark,dark,0.213215403,rod
+571,catshark,dark,0.202866812,rod
+572,catshark,dark,0.192842179,rod
+573,catshark,dark,0.183142122,rod
+574,catshark,dark,0.173766692,rod
+575,catshark,dark,0.164715383,rod
+576,catshark,dark,0.155987139,rod
+577,catshark,dark,0.147580356,rod
+578,catshark,dark,0.139492894,rod
+579,catshark,dark,0.131722076,rod
+580,catshark,dark,0.124264703,rod
+581,catshark,dark,0.117117056,rod
+582,catshark,dark,0.11027491,rod
+583,catshark,dark,0.103733549,rod
+584,catshark,dark,0.097487776,rod
+585,catshark,dark,0.09153194,rod
+586,catshark,dark,0.085859951,rod
+587,catshark,dark,0.080465309,rod
+588,catshark,dark,0.075341129,rod
+589,catshark,dark,0.070480179,rod
+590,catshark,dark,0.065874907,rod
+591,catshark,dark,0.06151748,rod
+592,catshark,dark,0.057399824,rod
+593,catshark,dark,0.053513663,rod
+594,catshark,dark,0.049850559,rod
+595,catshark,dark,0.046401954,rod
+596,catshark,dark,0.043159211,rod
+597,catshark,dark,0.040113655,rod
+598,catshark,dark,0.037256614,rod
+599,catshark,dark,0.034579454,rod
+600,catshark,dark,0.032073618,rod
+601,catshark,dark,0.029730657,rod
+602,catshark,dark,0.027542263,rod
+603,catshark,dark,0.025500297,rod
+604,catshark,dark,0.023596812,rod
+605,catshark,dark,0.02182408,rod
+606,catshark,dark,0.020174605,rod
+607,catshark,dark,0.018641143,rod
+608,catshark,dark,0.017216713,rod
+609,catshark,dark,0.015894609,rod
+610,catshark,dark,0.014668402,rod
+611,catshark,dark,0.013531953,rod
+612,catshark,dark,0.012479405,rod
+613,catshark,dark,0.011505192,rod
+614,catshark,dark,0.010604031,rod
+615,catshark,dark,0.009770922,rod
+616,catshark,dark,0.00900114,rod
+617,catshark,dark,0.00829023,rod
+618,catshark,dark,0.007633999,rod
+619,catshark,dark,0.007028508,rod
+620,catshark,dark,0.006470061,rod
+621,catshark,dark,0.0059552,rod
+622,catshark,dark,0.005480686,rod
+623,catshark,dark,0.0050435,rod
+624,catshark,dark,0.004640824,rod
+625,catshark,dark,0.004270032,rod
+626,catshark,dark,0.003928683,rod
+627,catshark,dark,0.003614508,rod
+628,catshark,dark,0.0033254,rod
+629,catshark,dark,0.003059405,rod
+630,catshark,dark,0.002814713,rod
+631,catshark,dark,0.002589648,rod
+632,catshark,dark,0.002382658,rod
+633,catshark,dark,0.002192311,rod
+634,catshark,dark,0.00201728,rod
+635,catshark,dark,0.001856345,rod
+636,catshark,dark,0.001708375,rod
+637,catshark,dark,0.001572332,rod
+638,catshark,dark,0.001447254,rod
+639,catshark,dark,0.001332259,rod
+640,catshark,dark,0.001226533,rod
+641,catshark,dark,0.001129326,rod
+642,catshark,dark,0.001039949,rod
+643,catshark,dark,0.000957767,rod
+644,catshark,dark,0.000882197,rod
+645,catshark,dark,0.000812702,rod
+646,catshark,dark,0.00074879,rod
+647,catshark,dark,0.000690006,rod
+648,catshark,dark,0.000635934,rod
+649,catshark,dark,0.000586193,rod
+650,catshark,dark,0.000540429,rod
+651,catshark,dark,0.00049832,rod
+652,catshark,dark,0.00045957,rod
+653,catshark,dark,0.000423906,rod
+654,catshark,dark,0.000391078,rod
+655,catshark,dark,0.000360857,rod
+656,catshark,dark,0.000333031,rod
+657,catshark,dark,0.000307407,rod
+658,catshark,dark,0.000283807,rod
+659,catshark,dark,0.000262068,rod
+660,catshark,dark,0.00024204,rod
+661,catshark,dark,0.000223585,rod
+662,catshark,dark,0.000206577,rod
+663,catshark,dark,0.0001909,rod
+664,catshark,dark,0.000176447,rod
+665,catshark,dark,0.000163121,rod
+666,catshark,dark,0.00015083,rod
+667,catshark,dark,0.000139494,rod
+668,catshark,dark,0.000129035,rod
+669,catshark,dark,0.000119384,rod
+670,catshark,dark,0.000110478,rod
+671,catshark,dark,0.000102256,rod
+672,catshark,dark,9.47E-05,rod
+673,catshark,dark,8.77E-05,rod
+674,catshark,dark,8.12E-05,rod
+675,catshark,dark,7.52E-05,rod
+676,catshark,dark,6.97E-05,rod
+677,catshark,dark,6.46E-05,rod
+678,catshark,dark,5.98E-05,rod
+679,catshark,dark,5.55E-05,rod
+680,catshark,dark,5.15E-05,rod
+681,catshark,dark,4.77E-05,rod
+682,catshark,dark,4.43E-05,rod
+683,catshark,dark,4.11E-05,rod
+684,catshark,dark,3.81E-05,rod
+685,catshark,dark,3.54E-05,rod
+686,catshark,dark,3.28E-05,rod
+687,catshark,dark,3.05E-05,rod
+688,catshark,dark,2.83E-05,rod
+689,catshark,dark,2.63E-05,rod
+690,catshark,dark,2.45E-05,rod
+691,catshark,dark,2.27E-05,rod
+692,catshark,dark,2.11E-05,rod
+693,catshark,dark,1.96E-05,rod
+694,catshark,dark,1.83E-05,rod
+695,catshark,dark,1.70E-05,rod
+696,catshark,dark,1.58E-05,rod
+697,catshark,dark,1.47E-05,rod
+698,catshark,dark,1.37E-05,rod
+699,catshark,dark,1.27E-05,rod
+700,catshark,dark,1.19E-05,rod
+300,thornback ray,unknown,0.136345574,rod
+301,thornback ray,unknown,0.140276478,rod
+302,thornback ray,unknown,0.144230336,rod
+303,thornback ray,unknown,0.148202831,rod
+304,thornback ray,unknown,0.152189498,rod
+305,thornback ray,unknown,0.156185732,rod
+306,thornback ray,unknown,0.160186797,rod
+307,thornback ray,unknown,0.164187838,rod
+308,thornback ray,unknown,0.168183885,rod
+309,thornback ray,unknown,0.17216987,rod
+310,thornback ray,unknown,0.176140634,rod
+311,thornback ray,unknown,0.180090942,rod
+312,thornback ray,unknown,0.184015492,rod
+313,thornback ray,unknown,0.187908932,rod
+314,thornback ray,unknown,0.19176587,rod
+315,thornback ray,unknown,0.195580889,rod
+316,thornback ray,unknown,0.199348564,rod
+317,thornback ray,unknown,0.20306347,rod
+318,thornback ray,unknown,0.206720207,rod
+319,thornback ray,unknown,0.210313406,rod
+320,thornback ray,unknown,0.213837751,rod
+321,thornback ray,unknown,0.21728799,rod
+322,thornback ray,unknown,0.220658955,rod
+323,thornback ray,unknown,0.223945575,rod
+324,thornback ray,unknown,0.227142894,rod
+325,thornback ray,unknown,0.230246086,rod
+326,thornback ray,unknown,0.23325047,rod
+327,thornback ray,unknown,0.236151527,rod
+328,thornback ray,unknown,0.238944916,rod
+329,thornback ray,unknown,0.241626487,rod
+330,thornback ray,unknown,0.244192297,rod
+331,thornback ray,unknown,0.246638626,rod
+332,thornback ray,unknown,0.248961986,rod
+333,thornback ray,unknown,0.25115914,rod
+334,thornback ray,unknown,0.253227115,rod
+335,thornback ray,unknown,0.255163207,rod
+336,thornback ray,unknown,0.256965002,rod
+337,thornback ray,unknown,0.258630381,rod
+338,thornback ray,unknown,0.26015753,rod
+339,thornback ray,unknown,0.261544956,rod
+340,thornback ray,unknown,0.262791486,rod
+341,thornback ray,unknown,0.263896282,rod
+342,thornback ray,unknown,0.264858846,rod
+343,thornback ray,unknown,0.265679023,rod
+344,thornback ray,unknown,0.266357011,rod
+345,thornback ray,unknown,0.266893361,rod
+346,thornback ray,unknown,0.267288981,rod
+347,thornback ray,unknown,0.267545142,rod
+348,thornback ray,unknown,0.267663472,rod
+349,thornback ray,unknown,0.267645961,rod
+350,thornback ray,unknown,0.267494961,rod
+351,thornback ray,unknown,0.267213181,rod
+352,thornback ray,unknown,0.266803685,rod
+353,thornback ray,unknown,0.26626989,rod
+354,thornback ray,unknown,0.26561556,rod
+355,thornback ray,unknown,0.264844802,rod
+356,thornback ray,unknown,0.263962055,rod
+357,thornback ray,unknown,0.262972089,rod
+358,thornback ray,unknown,0.261879993,rod
+359,thornback ray,unknown,0.260691167,rod
+360,thornback ray,unknown,0.25941131,rod
+361,thornback ray,unknown,0.258046416,rod
+362,thornback ray,unknown,0.256602755,rod
+363,thornback ray,unknown,0.255086867,rod
+364,thornback ray,unknown,0.253505547,rod
+365,thornback ray,unknown,0.251865832,rod
+366,thornback ray,unknown,0.250174989,rod
+367,thornback ray,unknown,0.248440502,rod
+368,thornback ray,unknown,0.246670052,rod
+369,thornback ray,unknown,0.244871511,rod
+370,thornback ray,unknown,0.243052921,rod
+371,thornback ray,unknown,0.24122248,rod
+372,thornback ray,unknown,0.239388526,rod
+373,thornback ray,unknown,0.237559525,rod
+374,thornback ray,unknown,0.23574405,rod
+375,thornback ray,unknown,0.23395077,rod
+376,thornback ray,unknown,0.232188428,rod
+377,thornback ray,unknown,0.230465832,rod
+378,thornback ray,unknown,0.228791834,rod
+379,thornback ray,unknown,0.227175316,rod
+380,thornback ray,unknown,0.225625174,rod
+381,thornback ray,unknown,0.224150302,rod
+382,thornback ray,unknown,0.222759576,rod
+383,thornback ray,unknown,0.221461838,rod
+384,thornback ray,unknown,0.220265883,rod
+385,thornback ray,unknown,0.219180441,rod
+386,thornback ray,unknown,0.218214163,rod
+387,thornback ray,unknown,0.217375608,rod
+388,thornback ray,unknown,0.216673224,rod
+389,thornback ray,unknown,0.216115338,rod
+390,thornback ray,unknown,0.215710141,rod
+391,thornback ray,unknown,0.215465671,rod
+392,thornback ray,unknown,0.215389802,rod
+393,thornback ray,unknown,0.215490231,rod
+394,thornback ray,unknown,0.215774463,rod
+395,thornback ray,unknown,0.216249799,rod
+396,thornback ray,unknown,0.216923321,rod
+397,thornback ray,unknown,0.217801884,rod
+398,thornback ray,unknown,0.218892099,rod
+399,thornback ray,unknown,0.220200323,rod
+400,thornback ray,unknown,0.221732646,rod
+401,thornback ray,unknown,0.223494881,rod
+402,thornback ray,unknown,0.22549255,rod
+403,thornback ray,unknown,0.227730875,rod
+404,thornback ray,unknown,0.230214766,rod
+405,thornback ray,unknown,0.232948811,rod
+406,thornback ray,unknown,0.235937262,rod
+407,thornback ray,unknown,0.23918403,rod
+408,thornback ray,unknown,0.24269267,rod
+409,thornback ray,unknown,0.246466375,rod
+410,thornback ray,unknown,0.250507965,rod
+411,thornback ray,unknown,0.254819878,rod
+412,thornback ray,unknown,0.259404159,rod
+413,thornback ray,unknown,0.264262459,rod
+414,thornback ray,unknown,0.269396017,rod
+415,thornback ray,unknown,0.274805663,rod
+416,thornback ray,unknown,0.280491804,rod
+417,thornback ray,unknown,0.286454418,rod
+418,thornback ray,unknown,0.292693056,rod
+419,thornback ray,unknown,0.299206827,rod
+420,thornback ray,unknown,0.3059944,rod
+421,thornback ray,unknown,0.313054,rod
+422,thornback ray,unknown,0.320383405,rod
+423,thornback ray,unknown,0.327979942,rod
+424,thornback ray,unknown,0.335840489,rod
+425,thornback ray,unknown,0.343961474,rod
+426,thornback ray,unknown,0.352338876,rod
+427,thornback ray,unknown,0.360968226,rod
+428,thornback ray,unknown,0.369844614,rod
+429,thornback ray,unknown,0.378962687,rod
+430,thornback ray,unknown,0.388316658,rod
+431,thornback ray,unknown,0.397900312,rod
+432,thornback ray,unknown,0.407707012,rod
+433,thornback ray,unknown,0.417729708,rod
+434,thornback ray,unknown,0.427960944,rod
+435,thornback ray,unknown,0.438392871,rod
+436,thornback ray,unknown,0.449017257,rod
+437,thornback ray,unknown,0.4598255,rod
+438,thornback ray,unknown,0.470808638,rod
+439,thornback ray,unknown,0.481957363,rod
+440,thornback ray,unknown,0.493262039,rod
+441,thornback ray,unknown,0.504712713,rod
+442,thornback ray,unknown,0.516299131,rod
+443,thornback ray,unknown,0.528010755,rod
+444,thornback ray,unknown,0.539836777,rod
+445,thornback ray,unknown,0.551766138,rod
+446,thornback ray,unknown,0.563787542,rod
+447,thornback ray,unknown,0.575889473,rod
+448,thornback ray,unknown,0.588060212,rod
+449,thornback ray,unknown,0.600287853,rod
+450,thornback ray,unknown,0.612560316,rod
+451,thornback ray,unknown,0.624865367,rod
+452,thornback ray,unknown,0.637190629,rod
+453,thornback ray,unknown,0.649523599,rod
+454,thornback ray,unknown,0.661851656,rod
+455,thornback ray,unknown,0.67416208,rod
+456,thornback ray,unknown,0.686442062,rod
+457,thornback ray,unknown,0.698678711,rod
+458,thornback ray,unknown,0.710859068,rod
+459,thornback ray,unknown,0.722970114,rod
+460,thornback ray,unknown,0.734998777,rod
+461,thornback ray,unknown,0.746931938,rod
+462,thornback ray,unknown,0.758756439,rod
+463,thornback ray,unknown,0.770459088,rod
+464,thornback ray,unknown,0.78202666,rod
+465,thornback ray,unknown,0.793445901,rod
+466,thornback ray,unknown,0.804703533,rod
+467,thornback ray,unknown,0.815786252,rod
+468,thornback ray,unknown,0.826680732,rod
+469,thornback ray,unknown,0.837373623,rod
+470,thornback ray,unknown,0.847851553,rod
+471,thornback ray,unknown,0.858101128,rod
+472,thornback ray,unknown,0.86810893,rod
+473,thornback ray,unknown,0.877861521,rod
+474,thornback ray,unknown,0.887345442,rod
+475,thornback ray,unknown,0.896547216,rod
+476,thornback ray,unknown,0.905453348,rod
+477,thornback ray,unknown,0.914050331,rod
+478,thornback ray,unknown,0.922324653,rod
+479,thornback ray,unknown,0.930262799,rod
+480,thornback ray,unknown,0.937851265,rod
+481,thornback ray,unknown,0.945076567,rod
+482,thornback ray,unknown,0.951925255,rod
+483,thornback ray,unknown,0.958383931,rod
+484,thornback ray,unknown,0.964439266,rod
+485,thornback ray,unknown,0.970078025,rod
+486,thornback ray,unknown,0.975287095,rod
+487,thornback ray,unknown,0.980053509,rod
+488,thornback ray,unknown,0.984364489,rod
+489,thornback ray,unknown,0.988207474,rod
+490,thornback ray,unknown,0.991570172,rod
+491,thornback ray,unknown,0.994440596,rod
+492,thornback ray,unknown,0.996807122,rod
+493,thornback ray,unknown,0.998658539,rod
+494,thornback ray,unknown,0.999984108,rod
+495,thornback ray,unknown,1.000773622,rod
+496,thornback ray,unknown,1.001017472,rod
+497,thornback ray,unknown,1.000706715,rod
+498,thornback ray,unknown,0.999833143,rod
+499,thornback ray,unknown,0.998389353,rod
+500,thornback ray,unknown,0.996368823,rod
+501,thornback ray,unknown,0.993765987,rod
+502,thornback ray,unknown,0.990576303,rod
+503,thornback ray,unknown,0.986796331,rod
+504,thornback ray,unknown,0.982423798,rod
+505,thornback ray,unknown,0.977457672,rod
+506,thornback ray,unknown,0.97189822,rod
+507,thornback ray,unknown,0.965747068,rod
+508,thornback ray,unknown,0.959007256,rod
+509,thornback ray,unknown,0.951683279,rod
+510,thornback ray,unknown,0.943781128,rod
+511,thornback ray,unknown,0.93530832,rod
+512,thornback ray,unknown,0.926273911,rod
+513,thornback ray,unknown,0.91668851,rod
+514,thornback ray,unknown,0.906564274,rod
+515,thornback ray,unknown,0.895914892,rod
+516,thornback ray,unknown,0.884755564,rod
+517,thornback ray,unknown,0.873102955,rod
+518,thornback ray,unknown,0.86097515,rod
+519,thornback ray,unknown,0.848391592,rod
+520,thornback ray,unknown,0.835373005,rod
+521,thornback ray,unknown,0.821941309,rod
+522,thornback ray,unknown,0.808119529,rod
+523,thornback ray,unknown,0.793931688,rod
+524,thornback ray,unknown,0.779402697,rod
+525,thornback ray,unknown,0.764558235,rod
+526,thornback ray,unknown,0.749424623,rod
+527,thornback ray,unknown,0.734028701,rod
+528,thornback ray,unknown,0.718397692,rod
+529,thornback ray,unknown,0.702559073,rod
+530,thornback ray,unknown,0.686540442,rod
+531,thornback ray,unknown,0.670369392,rod
+532,thornback ray,unknown,0.654073382,rod
+533,thornback ray,unknown,0.637679617,rod
+534,thornback ray,unknown,0.621214934,rod
+535,thornback ray,unknown,0.604705692,rod
+536,thornback ray,unknown,0.588177676,rod
+537,thornback ray,unknown,0.571656001,rod
+538,thornback ray,unknown,0.555165034,rod
+539,thornback ray,unknown,0.538728322,rod
+540,thornback ray,unknown,0.522368529,rod
+541,thornback ray,unknown,0.506107385,rod
+542,thornback ray,unknown,0.489965646,rod
+543,thornback ray,unknown,0.47396306,rod
+544,thornback ray,unknown,0.458118348,rod
+545,thornback ray,unknown,0.442449189,rod
+546,thornback ray,unknown,0.426972216,rod
+547,thornback ray,unknown,0.411703019,rod
+548,thornback ray,unknown,0.396656154,rod
+549,thornback ray,unknown,0.381845159,rod
+550,thornback ray,unknown,0.367282573,rod
+551,thornback ray,unknown,0.352979966,rod
+552,thornback ray,unknown,0.338947958,rod
+553,thornback ray,unknown,0.325196255,rod
+554,thornback ray,unknown,0.31173368,rod
+555,thornback ray,unknown,0.298568201,rod
+556,thornback ray,unknown,0.285706967,rod
+557,thornback ray,unknown,0.273156333,rod
+558,thornback ray,unknown,0.260921896,rod
+559,thornback ray,unknown,0.249008514,rod
+560,thornback ray,unknown,0.237420337,rod
+561,thornback ray,unknown,0.226160826,rod
+562,thornback ray,unknown,0.215232772,rod
+563,thornback ray,unknown,0.204638313,rod
+564,thornback ray,unknown,0.194378947,rod
+565,thornback ray,unknown,0.184455547,rod
+566,thornback ray,unknown,0.174868364,rod
+567,thornback ray,unknown,0.165617041,rod
+568,thornback ray,unknown,0.156700615,rod
+569,thornback ray,unknown,0.148117525,rod
+570,thornback ray,unknown,0.139865619,rod
+571,thornback ray,unknown,0.13194216,rod
+572,thornback ray,unknown,0.124343832,rod
+573,thornback ray,unknown,0.117066753,rod
+574,thornback ray,unknown,0.110106487,rod
+575,thornback ray,unknown,0.103458058,rod
+576,thornback ray,unknown,0.097115966,rod
+577,thornback ray,unknown,0.091074216,rod
+578,thornback ray,unknown,0.085326337,rod
+579,thornback ray,unknown,0.079865412,rod
+580,thornback ray,unknown,0.074684113,rod
+581,thornback ray,unknown,0.069774737,rod
+582,thornback ray,unknown,0.065129239,rod
+583,thornback ray,unknown,0.060739283,rod
+584,thornback ray,unknown,0.056596274,rod
+585,thornback ray,unknown,0.052691413,rod
+586,thornback ray,unknown,0.049015737,rod
+587,thornback ray,unknown,0.045560164,rod
+588,thornback ray,unknown,0.042315544,rod
+589,thornback ray,unknown,0.039272699,rod
+590,thornback ray,unknown,0.036422466,rod
+591,thornback ray,unknown,0.03375574,rod
+592,thornback ray,unknown,0.031263514,rod
+593,thornback ray,unknown,0.028936911,rod
+594,thornback ray,unknown,0.026767219,rod
+595,thornback ray,unknown,0.024745922,rod
+596,thornback ray,unknown,0.022864722,rod
+597,thornback ray,unknown,0.021115565,rod
+598,thornback ray,unknown,0.01949066,rod
+599,thornback ray,unknown,0.017982491,rod
+600,thornback ray,unknown,0.016583834,rod
+601,thornback ray,unknown,0.015287764,rod
+602,thornback ray,unknown,0.014087658,rod
+603,thornback ray,unknown,0.012977206,rod
+604,thornback ray,unknown,0.011950403,rod
+605,thornback ray,unknown,0.011001554,rod
+606,thornback ray,unknown,0.010125268,rod
+607,thornback ray,unknown,0.009316452,rod
+608,thornback ray,unknown,0.008570306,rod
+609,thornback ray,unknown,0.007882314,rod
+610,thornback ray,unknown,0.007248237,rod
+611,thornback ray,unknown,0.006664099,rod
+612,thornback ray,unknown,0.006126181,rod
+613,thornback ray,unknown,0.005631006,rod
+614,thornback ray,unknown,0.005175331,rod
+615,thornback ray,unknown,0.004756134,rod
+616,thornback ray,unknown,0.004370603,rod
+617,thornback ray,unknown,0.004016124,rod
+618,thornback ray,unknown,0.00369027,rod
+619,thornback ray,unknown,0.003390791,rod
+620,thornback ray,unknown,0.003115601,rod
+621,thornback ray,unknown,0.002862771,rod
+622,thornback ray,unknown,0.002630515,rod
+623,thornback ray,unknown,0.002417185,rod
+624,thornback ray,unknown,0.002221258,rod
+625,thornback ray,unknown,0.002041327,rod
+626,thornback ray,unknown,0.001876098,rod
+627,thornback ray,unknown,0.001724375,rod
+628,thornback ray,unknown,0.001585059,rod
+629,thornback ray,unknown,0.001457138,rod
+630,thornback ray,unknown,0.001339679,rod
+631,thornback ray,unknown,0.001231825,rod
+632,thornback ray,unknown,0.001132789,rod
+633,thornback ray,unknown,0.001041845,rod
+634,thornback ray,unknown,0.00095833,rod
+635,thornback ray,unknown,0.00088163,rod
+636,thornback ray,unknown,0.000811187,rod
+637,thornback ray,unknown,0.000746483,rod
+638,thornback ray,unknown,0.000687046,rod
+639,thornback ray,unknown,0.000632442,rod
+640,thornback ray,unknown,0.000582273,rod
+641,thornback ray,unknown,0.000536173,rod
+642,thornback ray,unknown,0.000493808,rod
+643,thornback ray,unknown,0.00045487,rod
+644,thornback ray,unknown,0.000419077,rod
+645,thornback ray,unknown,0.000386171,rod
+646,thornback ray,unknown,0.000355913,rod
+647,thornback ray,unknown,0.000328088,rod
+648,thornback ray,unknown,0.000302496,rod
+649,thornback ray,unknown,0.000278953,rod
+650,thornback ray,unknown,0.000257292,rod
+651,thornback ray,unknown,0.00023736,rod
+652,thornback ray,unknown,0.000219015,rod
+653,thornback ray,unknown,0.000202129,rod
+654,thornback ray,unknown,0.000186581,rod
+655,thornback ray,unknown,0.000172264,rod
+656,thornback ray,unknown,0.000159078,rod
+657,thornback ray,unknown,0.000146932,rod
+658,thornback ray,unknown,0.000135741,rod
+659,thornback ray,unknown,0.000125428,rod
+660,thornback ray,unknown,0.000115922,rod
+661,thornback ray,unknown,0.000107159,rod
+662,thornback ray,unknown,9.91E-05,rod
+663,thornback ray,unknown,9.16E-05,rod
+664,thornback ray,unknown,8.48E-05,rod
+665,thornback ray,unknown,7.84E-05,rod
+666,thornback ray,unknown,7.26E-05,rod
+667,thornback ray,unknown,6.72E-05,rod
+668,thornback ray,unknown,6.22E-05,rod
+669,thornback ray,unknown,5.76E-05,rod
+670,thornback ray,unknown,5.33E-05,rod
+671,thornback ray,unknown,4.94E-05,rod
+672,thornback ray,unknown,4.58E-05,rod
+673,thornback ray,unknown,4.24E-05,rod
+674,thornback ray,unknown,3.93E-05,rod
+675,thornback ray,unknown,3.64E-05,rod
+676,thornback ray,unknown,3.38E-05,rod
+677,thornback ray,unknown,3.13E-05,rod
+678,thornback ray,unknown,2.91E-05,rod
+679,thornback ray,unknown,2.70E-05,rod
+680,thornback ray,unknown,2.50E-05,rod
+681,thornback ray,unknown,2.32E-05,rod
+682,thornback ray,unknown,2.16E-05,rod
+683,thornback ray,unknown,2.00E-05,rod
+684,thornback ray,unknown,1.86E-05,rod
+685,thornback ray,unknown,1.73E-05,rod
+686,thornback ray,unknown,1.61E-05,rod
+687,thornback ray,unknown,1.49E-05,rod
+688,thornback ray,unknown,1.39E-05,rod
+689,thornback ray,unknown,1.29E-05,rod
+690,thornback ray,unknown,1.20E-05,rod
+691,thornback ray,unknown,1.12E-05,rod
+692,thornback ray,unknown,1.04E-05,rod
+693,thornback ray,unknown,9.67E-06,rod
+694,thornback ray,unknown,9.00E-06,rod
+695,thornback ray,unknown,8.38E-06,rod
+696,thornback ray,unknown,7.80E-06,rod
+697,thornback ray,unknown,7.27E-06,rod
+698,thornback ray,unknown,6.77E-06,rod
+699,thornback ray,unknown,6.31E-06,rod
+700,thornback ray,unknown,5.88E-06,rod
+300,plaice,dark,0.172963099,sw
+301,plaice,dark,0.177849474,sw
+302,plaice,dark,0.182717966,sw
+303,plaice,dark,0.187560181,sw
+304,plaice,dark,0.192367643,sw
+305,plaice,dark,0.197131826,sw
+306,plaice,dark,0.201844192,sw
+307,plaice,dark,0.20649622,sw
+308,plaice,dark,0.211079447,sw
+309,plaice,dark,0.215585503,sw
+310,plaice,dark,0.22000615,sw
+311,plaice,dark,0.224333316,sw
+312,plaice,dark,0.228559138,sw
+313,plaice,dark,0.232675998,sw
+314,plaice,dark,0.236676563,sw
+315,plaice,dark,0.240553818,sw
+316,plaice,dark,0.24430111,sw
+317,plaice,dark,0.247912179,sw
+318,plaice,dark,0.251381196,sw
+319,plaice,dark,0.254702796,sw
+320,plaice,dark,0.257872114,sw
+321,plaice,dark,0.260884814,sw
+322,plaice,dark,0.263737117,sw
+323,plaice,dark,0.266425834,sw
+324,plaice,dark,0.268948386,sw
+325,plaice,dark,0.271302831,sw
+326,plaice,dark,0.273487886,sw
+327,plaice,dark,0.275502941,sw
+328,plaice,dark,0.277348081,sw
+329,plaice,dark,0.279024093,sw
+330,plaice,dark,0.280532482,sw
+331,plaice,dark,0.281875474,sw
+332,plaice,dark,0.283056024,sw
+333,plaice,dark,0.284077816,sw
+334,plaice,dark,0.284945261,sw
+335,plaice,dark,0.285663493,sw
+336,plaice,dark,0.28623836,sw
+337,plaice,dark,0.286676417,sw
+338,plaice,dark,0.286984909,sw
+339,plaice,dark,0.287171756,sw
+340,plaice,dark,0.287245531,sw
+341,plaice,dark,0.287215442,sw
+342,plaice,dark,0.287091305,sw
+343,plaice,dark,0.286883516,sw
+344,plaice,dark,0.28660302,sw
+345,plaice,dark,0.286261283,sw
+346,plaice,dark,0.285870253,sw
+347,plaice,dark,0.285442325,sw
+348,plaice,dark,0.284990304,sw
+349,plaice,dark,0.284527364,sw
+350,plaice,dark,0.284067004,sw
+351,plaice,dark,0.283623008,sw
+352,plaice,dark,0.283209401,sw
+353,plaice,dark,0.282840399,sw
+354,plaice,dark,0.282530367,sw
+355,plaice,dark,0.282293773,sw
+356,plaice,dark,0.282145135,sw
+357,plaice,dark,0.282098979,sw
+358,plaice,dark,0.282169786,sw
+359,plaice,dark,0.282371949,sw
+360,plaice,dark,0.28271972,sw
+361,plaice,dark,0.283227166,sw
+362,plaice,dark,0.283908122,sw
+363,plaice,dark,0.284776141,sw
+364,plaice,dark,0.285844453,sw
+365,plaice,dark,0.287125916,sw
+366,plaice,dark,0.288632974,sw
+367,plaice,dark,0.290377617,sw
+368,plaice,dark,0.292371335,sw
+369,plaice,dark,0.294625083,sw
+370,plaice,dark,0.29714924,sw
+371,plaice,dark,0.299953572,sw
+372,plaice,dark,0.303047201,sw
+373,plaice,dark,0.30643857,sw
+374,plaice,dark,0.310135412,sw
+375,plaice,dark,0.314144723,sw
+376,plaice,dark,0.318472733,sw
+377,plaice,dark,0.323124889,sw
+378,plaice,dark,0.328105823,sw
+379,plaice,dark,0.333419344,sw
+380,plaice,dark,0.339068415,sw
+381,plaice,dark,0.34505514,sw
+382,plaice,dark,0.351380757,sw
+383,plaice,dark,0.358045623,sw
+384,plaice,dark,0.365049217,sw
+385,plaice,dark,0.372390129,sw
+386,plaice,dark,0.380066069,sw
+387,plaice,dark,0.38807386,sw
+388,plaice,dark,0.396409454,sw
+389,plaice,dark,0.405067934,sw
+390,plaice,dark,0.414043528,sw
+391,plaice,dark,0.423329624,sw
+392,plaice,dark,0.432918783,sw
+393,plaice,dark,0.442802764,sw
+394,plaice,dark,0.452972542,sw
+395,plaice,dark,0.463418332,sw
+396,plaice,dark,0.474129615,sw
+397,plaice,dark,0.48509517,sw
+398,plaice,dark,0.496303098,sw
+399,plaice,dark,0.507740855,sw
+400,plaice,dark,0.519395289,sw
+401,plaice,dark,0.531252668,sw
+402,plaice,dark,0.543298716,sw
+403,plaice,dark,0.555518649,sw
+404,plaice,dark,0.567897212,sw
+405,plaice,dark,0.580418712,sw
+406,plaice,dark,0.593067051,sw
+407,plaice,dark,0.605825768,sw
+408,plaice,dark,0.618678066,sw
+409,plaice,dark,0.631606851,sw
+410,plaice,dark,0.644594757,sw
+411,plaice,dark,0.657624185,sw
+412,plaice,dark,0.670677324,sw
+413,plaice,dark,0.683736185,sw
+414,plaice,dark,0.696782622,sw
+415,plaice,dark,0.709798357,sw
+416,plaice,dark,0.722764999,sw
+417,plaice,dark,0.735664067,sw
+418,plaice,dark,0.748477005,sw
+419,plaice,dark,0.761185193,sw
+420,plaice,dark,0.773769967,sw
+421,plaice,dark,0.78621262,sw
+422,plaice,dark,0.79849442,sw
+423,plaice,dark,0.810596609,sw
+424,plaice,dark,0.822500412,sw
+425,plaice,dark,0.834187039,sw
+426,plaice,dark,0.845637689,sw
+427,plaice,dark,0.856833552,sw
+428,plaice,dark,0.867755808,sw
+429,plaice,dark,0.878385631,sw
+430,plaice,dark,0.888704192,sw
+431,plaice,dark,0.898692657,sw
+432,plaice,dark,0.908332198,sw
+433,plaice,dark,0.917603993,sw
+434,plaice,dark,0.926489239,sw
+435,plaice,dark,0.93496916,sw
+436,plaice,dark,0.943025025,sw
+437,plaice,dark,0.950638166,sw
+438,plaice,dark,0.957789999,sw
+439,plaice,dark,0.964462057,sw
+440,plaice,dark,0.97063602,sw
+441,plaice,dark,0.976293757,sw
+442,plaice,dark,0.981417373,sw
+443,plaice,dark,0.985989261,sw
+444,plaice,dark,0.989992163,sw
+445,plaice,dark,0.993409235,sw
+446,plaice,dark,0.996224124,sw
+447,plaice,dark,0.998421047,sw
+448,plaice,dark,0.999984882,sw
+449,plaice,dark,1.000901259,sw
+450,plaice,dark,1.001156665,sw
+451,plaice,dark,1.000738546,sw
+452,plaice,dark,0.999635421,sw
+453,plaice,dark,0.997836994,sw
+454,plaice,dark,0.995334269,sw
+455,plaice,dark,0.992119673,sw
+456,plaice,dark,0.988187165,sw
+457,plaice,dark,0.983532356,sw
+458,plaice,dark,0.978152618,sw
+459,plaice,dark,0.972047186,sw
+460,plaice,dark,0.965217257,sw
+461,plaice,dark,0.957666079,sw
+462,plaice,dark,0.94939902,sw
+463,plaice,dark,0.940423635,sw
+464,plaice,dark,0.930749708,sw
+465,plaice,dark,0.920389286,sw
+466,plaice,dark,0.909356687,sw
+467,plaice,dark,0.89766849,sw
+468,plaice,dark,0.88534351,sw
+469,plaice,dark,0.87240275,sw
+470,plaice,dark,0.858869326,sw
+471,plaice,dark,0.844768382,sw
+472,plaice,dark,0.830126979,sw
+473,plaice,dark,0.814973966,sw
+474,plaice,dark,0.799339836,sw
+475,plaice,dark,0.783256566,sw
+476,plaice,dark,0.766757444,sw
+477,plaice,dark,0.749876883,sw
+478,plaice,dark,0.732650233,sw
+479,plaice,dark,0.715113581,sw
+480,plaice,dark,0.697303551,sw
+481,plaice,dark,0.679257108,sw
+482,plaice,dark,0.661011358,sw
+483,plaice,dark,0.642603362,sw
+484,plaice,dark,0.62406995,sw
+485,plaice,dark,0.60544755,sw
+486,plaice,dark,0.586772031,sw
+487,plaice,dark,0.568078551,sw
+488,plaice,dark,0.549401431,sw
+489,plaice,dark,0.530774035,sw
+490,plaice,dark,0.512228669,sw
+491,plaice,dark,0.4937965,sw
+492,plaice,dark,0.475507479,sw
+493,plaice,dark,0.457390292,sw
+494,plaice,dark,0.43947231,sw
+495,plaice,dark,0.421779568,sw
+496,plaice,dark,0.404336733,sw
+497,plaice,dark,0.387167103,sw
+498,plaice,dark,0.370292592,sw
+499,plaice,dark,0.353733738,sw
+500,plaice,dark,0.337509701,sw
+501,plaice,dark,0.321638271,sw
+502,plaice,dark,0.306135869,sw
+503,plaice,dark,0.291017556,sw
+504,plaice,dark,0.276297029,sw
+505,plaice,dark,0.261986626,sw
+506,plaice,dark,0.248097316,sw
+507,plaice,dark,0.234638699,sw
+508,plaice,dark,0.221618991,sw
+509,plaice,dark,0.209045016,sw
+510,plaice,dark,0.196922194,sw
+511,plaice,dark,0.185254534,sw
+512,plaice,dark,0.17404462,sw
+513,plaice,dark,0.163293611,sw
+514,plaice,dark,0.153001243,sw
+515,plaice,dark,0.143165837,sw
+516,plaice,dark,0.133784318,sw
+517,plaice,dark,0.124852242,sw
+518,plaice,dark,0.116363838,sw
+519,plaice,dark,0.108312054,sw
+520,plaice,dark,0.100688627,sw
+521,plaice,dark,0.09348415,sw
+522,plaice,dark,0.086688161,sw
+523,plaice,dark,0.080289236,sw
+524,plaice,dark,0.074275096,sw
+525,plaice,dark,0.06863271,sw
+526,plaice,dark,0.063348416,sw
+527,plaice,dark,0.058408035,sw
+528,plaice,dark,0.053796991,sw
+529,plaice,dark,0.049500427,sw
+530,plaice,dark,0.045503318,sw
+531,plaice,dark,0.041790582,sw
+532,plaice,dark,0.038347181,sw
+533,plaice,dark,0.035158217,sw
+534,plaice,dark,0.032209019,sw
+535,plaice,dark,0.029485216,sw
+536,plaice,dark,0.026972812,sw
+537,plaice,dark,0.024658237,sw
+538,plaice,dark,0.022528398,sw
+539,plaice,dark,0.020570718,sw
+540,plaice,dark,0.018773163,sw
+541,plaice,dark,0.017124267,sw
+542,plaice,dark,0.015613141,sw
+543,plaice,dark,0.014229482,sw
+544,plaice,dark,0.01296357,sw
+545,plaice,dark,0.011806268,sw
+546,plaice,dark,0.010749005,sw
+547,plaice,dark,0.009783767,sw
+548,plaice,dark,0.008903079,sw
+549,plaice,dark,0.00809998,sw
+550,plaice,dark,0.00736801,sw
+551,plaice,dark,0.006701179,sw
+552,plaice,dark,0.006093947,sw
+553,plaice,dark,0.005541197,sw
+554,plaice,dark,0.005038215,sw
+555,plaice,dark,0.004580657,sw
+556,plaice,dark,0.004164534,sw
+557,plaice,dark,0.003786182,sw
+558,plaice,dark,0.003442243,sw
+559,plaice,dark,0.003129641,sw
+560,plaice,dark,0.00284556,sw
+561,plaice,dark,0.00258743,sw
+562,plaice,dark,0.0023529,sw
+563,plaice,dark,0.002139826,sw
+564,plaice,dark,0.001946255,sw
+565,plaice,dark,0.001770405,sw
+566,plaice,dark,0.001610654,sw
+567,plaice,dark,0.001465525,sw
+568,plaice,dark,0.001333676,sw
+569,plaice,dark,0.001213884,sw
+570,plaice,dark,0.001105041,sw
+571,plaice,dark,0.001006137,sw
+572,plaice,dark,0.000916256,sw
+573,plaice,dark,0.000834565,sw
+574,plaice,dark,0.000760311,sw
+575,plaice,dark,0.000692806,sw
+576,plaice,dark,0.000631428,sw
+577,plaice,dark,0.000575613,sw
+578,plaice,dark,0.000524849,sw
+579,plaice,dark,0.00047867,sw
+580,plaice,dark,0.000436655,sw
+581,plaice,dark,0.000398421,sw
+582,plaice,dark,0.000363621,sw
+583,plaice,dark,0.000331942,sw
+584,plaice,dark,0.000303096,sw
+585,plaice,dark,0.000276825,sw
+586,plaice,dark,0.000252894,sw
+587,plaice,dark,0.00023109,sw
+588,plaice,dark,0.00021122,sw
+589,plaice,dark,0.000193107,sw
+590,plaice,dark,0.000176593,sw
+591,plaice,dark,0.000161533,sw
+592,plaice,dark,0.000147795,sw
+593,plaice,dark,0.000135261,sw
+594,plaice,dark,0.000123822,sw
+595,plaice,dark,0.00011338,sw
+596,plaice,dark,0.000103846,sw
+597,plaice,dark,9.51E-05,sw
+598,plaice,dark,8.72E-05,sw
+599,plaice,dark,7.99E-05,sw
+600,plaice,dark,7.33E-05,sw
+601,plaice,dark,6.72E-05,sw
+602,plaice,dark,6.16E-05,sw
+603,plaice,dark,5.66E-05,sw
+604,plaice,dark,5.19E-05,sw
+605,plaice,dark,4.77E-05,sw
+606,plaice,dark,4.38E-05,sw
+607,plaice,dark,4.02E-05,sw
+608,plaice,dark,3.69E-05,sw
+609,plaice,dark,3.40E-05,sw
+610,plaice,dark,3.12E-05,sw
+611,plaice,dark,2.87E-05,sw
+612,plaice,dark,2.64E-05,sw
+613,plaice,dark,2.43E-05,sw
+614,plaice,dark,2.24E-05,sw
+615,plaice,dark,2.06E-05,sw
+616,plaice,dark,1.89E-05,sw
+617,plaice,dark,1.74E-05,sw
+618,plaice,dark,1.61E-05,sw
+619,plaice,dark,1.48E-05,sw
+620,plaice,dark,1.36E-05,sw
+621,plaice,dark,1.26E-05,sw
+622,plaice,dark,1.16E-05,sw
+623,plaice,dark,1.07E-05,sw
+624,plaice,dark,9.88E-06,sw
+625,plaice,dark,9.11E-06,sw
+626,plaice,dark,8.41E-06,sw
+627,plaice,dark,7.77E-06,sw
+628,plaice,dark,7.17E-06,sw
+629,plaice,dark,6.63E-06,sw
+630,plaice,dark,6.12E-06,sw
+631,plaice,dark,5.66E-06,sw
+632,plaice,dark,5.23E-06,sw
+633,plaice,dark,4.84E-06,sw
+634,plaice,dark,4.47E-06,sw
+635,plaice,dark,4.14E-06,sw
+636,plaice,dark,3.83E-06,sw
+637,plaice,dark,3.54E-06,sw
+638,plaice,dark,3.28E-06,sw
+639,plaice,dark,3.04E-06,sw
+640,plaice,dark,2.81E-06,sw
+641,plaice,dark,2.61E-06,sw
+642,plaice,dark,2.42E-06,sw
+643,plaice,dark,2.24E-06,sw
+644,plaice,dark,2.08E-06,sw
+645,plaice,dark,1.93E-06,sw
+646,plaice,dark,1.79E-06,sw
+647,plaice,dark,1.66E-06,sw
+648,plaice,dark,1.54E-06,sw
+649,plaice,dark,1.43E-06,sw
+650,plaice,dark,1.32E-06,sw
+651,plaice,dark,1.23E-06,sw
+652,plaice,dark,1.14E-06,sw
+653,plaice,dark,1.06E-06,sw
+654,plaice,dark,9.86E-07,sw
+655,plaice,dark,9.17E-07,sw
+656,plaice,dark,8.52E-07,sw
+657,plaice,dark,7.93E-07,sw
+658,plaice,dark,7.37E-07,sw
+659,plaice,dark,6.86E-07,sw
+660,plaice,dark,6.38E-07,sw
+661,plaice,dark,5.94E-07,sw
+662,plaice,dark,5.53E-07,sw
+663,plaice,dark,5.15E-07,sw
+664,plaice,dark,4.79E-07,sw
+665,plaice,dark,4.46E-07,sw
+666,plaice,dark,4.16E-07,sw
+667,plaice,dark,3.87E-07,sw
+668,plaice,dark,3.61E-07,sw
+669,plaice,dark,3.37E-07,sw
+670,plaice,dark,3.14E-07,sw
+671,plaice,dark,2.93E-07,sw
+672,plaice,dark,2.73E-07,sw
+673,plaice,dark,2.55E-07,sw
+674,plaice,dark,2.38E-07,sw
+675,plaice,dark,2.22E-07,sw
+676,plaice,dark,2.07E-07,sw
+677,plaice,dark,1.93E-07,sw
+678,plaice,dark,1.81E-07,sw
+679,plaice,dark,1.69E-07,sw
+680,plaice,dark,1.58E-07,sw
+681,plaice,dark,1.47E-07,sw
+682,plaice,dark,1.38E-07,sw
+683,plaice,dark,1.29E-07,sw
+684,plaice,dark,1.20E-07,sw
+685,plaice,dark,1.13E-07,sw
+686,plaice,dark,1.05E-07,sw
+687,plaice,dark,9.86E-08,sw
+688,plaice,dark,9.23E-08,sw
+689,plaice,dark,8.64E-08,sw
+690,plaice,dark,8.08E-08,sw
+691,plaice,dark,7.57E-08,sw
+692,plaice,dark,7.09E-08,sw
+693,plaice,dark,6.64E-08,sw
+694,plaice,dark,6.22E-08,sw
+695,plaice,dark,5.83E-08,sw
+696,plaice,dark,5.46E-08,sw
+697,plaice,dark,5.12E-08,sw
+698,plaice,dark,4.80E-08,sw
+699,plaice,dark,4.50E-08,sw
+700,plaice,dark,4.22E-08,sw
+300,plaice,dark,0.147192082,mw
+301,plaice,dark,0.151429117,mw
+302,plaice,dark,0.155679564,mw
+303,plaice,dark,0.159937913,mw
+304,plaice,dark,0.164198502,mw
+305,plaice,dark,0.168455531,mw
+306,plaice,dark,0.172703076,mw
+307,plaice,dark,0.176935103,mw
+308,plaice,dark,0.181145487,mw
+309,plaice,dark,0.185328024,mw
+310,plaice,dark,0.189476452,mw
+311,plaice,dark,0.19358447,mw
+312,plaice,dark,0.197645752,mw
+313,plaice,dark,0.201653974,mw
+314,plaice,dark,0.205602824,mw
+315,plaice,dark,0.209486032,mw
+316,plaice,dark,0.213297384,mw
+317,plaice,dark,0.217030746,mw
+318,plaice,dark,0.220680086,mw
+319,plaice,dark,0.224239492,mw
+320,plaice,dark,0.227703197,mw
+321,plaice,dark,0.231065597,mw
+322,plaice,dark,0.234321274,mw
+323,plaice,dark,0.237465018,mw
+324,plaice,dark,0.240491845,mw
+325,plaice,dark,0.243397019,mw
+326,plaice,dark,0.246176072,mw
+327,plaice,dark,0.248824821,mw
+328,plaice,dark,0.251339389,mw
+329,plaice,dark,0.253716222,mw
+330,plaice,dark,0.255952105,mw
+331,plaice,dark,0.258044178,mw
+332,plaice,dark,0.259989955,mw
+333,plaice,dark,0.261787331,mw
+334,plaice,dark,0.263434602,mw
+335,plaice,dark,0.264930472,mw
+336,plaice,dark,0.266274066,mw
+337,plaice,dark,0.267464938,mw
+338,plaice,dark,0.268503082,mw
+339,plaice,dark,0.269388935,mw
+340,plaice,dark,0.270123382,mw
+341,plaice,dark,0.270707766,mw
+342,plaice,dark,0.271143883,mw
+343,plaice,dark,0.271433989,mw
+344,plaice,dark,0.271580797,mw
+345,plaice,dark,0.271587473,mw
+346,plaice,dark,0.27145764,mw
+347,plaice,dark,0.271195367,mw
+348,plaice,dark,0.270805165,mw
+349,plaice,dark,0.270291981,mw
+350,plaice,dark,0.269661189,mw
+351,plaice,dark,0.268918578,mw
+352,plaice,dark,0.268070345,mw
+353,plaice,dark,0.26712308,mw
+354,plaice,dark,0.266083752,mw
+355,plaice,dark,0.264959698,mw
+356,plaice,dark,0.263758603,mw
+357,plaice,dark,0.262488487,mw
+358,plaice,dark,0.261157686,mw
+359,plaice,dark,0.259774835,mw
+360,plaice,dark,0.258348847,mw
+361,plaice,dark,0.256888895,mw
+362,plaice,dark,0.255404392,mw
+363,plaice,dark,0.253904966,mw
+364,plaice,dark,0.252400446,mw
+365,plaice,dark,0.250900832,mw
+366,plaice,dark,0.24941628,mw
+367,plaice,dark,0.247957073,mw
+368,plaice,dark,0.246533602,mw
+369,plaice,dark,0.245156345,mw
+370,plaice,dark,0.243835836,mw
+371,plaice,dark,0.242582652,mw
+372,plaice,dark,0.241407381,mw
+373,plaice,dark,0.240320605,mw
+374,plaice,dark,0.239332873,mw
+375,plaice,dark,0.238454682,mw
+376,plaice,dark,0.237696447,mw
+377,plaice,dark,0.23706849,mw
+378,plaice,dark,0.236581004,mw
+379,plaice,dark,0.236244044,mw
+380,plaice,dark,0.236067495,mw
+381,plaice,dark,0.236061057,mw
+382,plaice,dark,0.23623422,mw
+383,plaice,dark,0.236596247,mw
+384,plaice,dark,0.237156151,mw
+385,plaice,dark,0.237922675,mw
+386,plaice,dark,0.238904274,mw
+387,plaice,dark,0.240109097,mw
+388,plaice,dark,0.241544964,mw
+389,plaice,dark,0.243219354,mw
+390,plaice,dark,0.245139382,mw
+391,plaice,dark,0.247311786,mw
+392,plaice,dark,0.24974291,mw
+393,plaice,dark,0.252438684,mw
+394,plaice,dark,0.255404614,mw
+395,plaice,dark,0.258645765,mw
+396,plaice,dark,0.262166748,mw
+397,plaice,dark,0.265971704,mw
+398,plaice,dark,0.270064295,mw
+399,plaice,dark,0.274447689,mw
+400,plaice,dark,0.279124552,mw
+401,plaice,dark,0.284097034,mw
+402,plaice,dark,0.289366763,mw
+403,plaice,dark,0.294934836,mw
+404,plaice,dark,0.30080181,mw
+405,plaice,dark,0.306967696,mw
+406,plaice,dark,0.313431954,mw
+407,plaice,dark,0.320193489,mw
+408,plaice,dark,0.327250648,mw
+409,plaice,dark,0.334601216,mw
+410,plaice,dark,0.34224242,mw
+411,plaice,dark,0.350170922,mw
+412,plaice,dark,0.358382828,mw
+413,plaice,dark,0.366873689,mw
+414,plaice,dark,0.375638503,mw
+415,plaice,dark,0.384671725,mw
+416,plaice,dark,0.39396727,mw
+417,plaice,dark,0.403518525,mw
+418,plaice,dark,0.413318357,mw
+419,plaice,dark,0.423359125,mw
+420,plaice,dark,0.433632692,mw
+421,plaice,dark,0.444130441,mw
+422,plaice,dark,0.454843285,mw
+423,plaice,dark,0.465761687,mw
+424,plaice,dark,0.476875675,mw
+425,plaice,dark,0.488174864,mw
+426,plaice,dark,0.499648466,mw
+427,plaice,dark,0.511285319,mw
+428,plaice,dark,0.5230739,mw
+429,plaice,dark,0.535002349,mw
+430,plaice,dark,0.54705849,mw
+431,plaice,dark,0.559229847,mw
+432,plaice,dark,0.571503672,mw
+433,plaice,dark,0.583866961,mw
+434,plaice,dark,0.596306475,mw
+435,plaice,dark,0.608808762,mw
+436,plaice,dark,0.621360176,mw
+437,plaice,dark,0.633946895,mw
+438,plaice,dark,0.646554939,mw
+439,plaice,dark,0.65917019,mw
+440,plaice,dark,0.671778405,mw
+441,plaice,dark,0.684365234,mw
+442,plaice,dark,0.696916232,mw
+443,plaice,dark,0.709416872,mw
+444,plaice,dark,0.721852559,mw
+445,plaice,dark,0.734208636,mw
+446,plaice,dark,0.746470396,mw
+447,plaice,dark,0.758623092,mw
+448,plaice,dark,0.770651935,mw
+449,plaice,dark,0.78254211,mw
+450,plaice,dark,0.794278771,mw
+451,plaice,dark,0.805847048,mw
+452,plaice,dark,0.817232051,mw
+453,plaice,dark,0.828418868,mw
+454,plaice,dark,0.839392566,mw
+455,plaice,dark,0.850138195,mw
+456,plaice,dark,0.860640784,mw
+457,plaice,dark,0.870885344,mw
+458,plaice,dark,0.880856867,mw
+459,plaice,dark,0.89054033,mw
+460,plaice,dark,0.899920693,mw
+461,plaice,dark,0.908982909,mw
+462,plaice,dark,0.91771192,mw
+463,plaice,dark,0.926092672,mw
+464,plaice,dark,0.934110119,mw
+465,plaice,dark,0.941749237,mw
+466,plaice,dark,0.948995036,mw
+467,plaice,dark,0.955832582,mw
+468,plaice,dark,0.962247012,mw
+469,plaice,dark,0.968223564,mw
+470,plaice,dark,0.973747604,mw
+471,plaice,dark,0.97880466,mw
+472,plaice,dark,0.983380458,mw
+473,plaice,dark,0.987460969,mw
+474,plaice,dark,0.991032451,mw
+475,plaice,dark,0.994081506,mw
+476,plaice,dark,0.996595138,mw
+477,plaice,dark,0.998560808,mw
+478,plaice,dark,0.999966512,mw
+479,plaice,dark,1.000800842,mw
+480,plaice,dark,1.001053068,mw
+481,plaice,dark,1.000713214,mw
+482,plaice,dark,0.99977214,mw
+483,plaice,dark,0.998221627,mw
+484,plaice,dark,0.996054464,mw
+485,plaice,dark,0.99326453,mw
+486,plaice,dark,0.989846885,mw
+487,plaice,dark,0.985797851,mw
+488,plaice,dark,0.981115096,mw
+489,plaice,dark,0.975797714,mw
+490,plaice,dark,0.969846294,mw
+491,plaice,dark,0.963262988,mw
+492,plaice,dark,0.956051575,mw
+493,plaice,dark,0.948217505,mw
+494,plaice,dark,0.939767944,mw
+495,plaice,dark,0.930711803,mw
+496,plaice,dark,0.921059753,mw
+497,plaice,dark,0.91082423,mw
+498,plaice,dark,0.900019427,mw
+499,plaice,dark,0.888661267,mw
+500,plaice,dark,0.876767369,mw
+501,plaice,dark,0.864356993,mw
+502,plaice,dark,0.85145097,mw
+503,plaice,dark,0.838071625,mw
+504,plaice,dark,0.824242679,mw
+505,plaice,dark,0.809989147,mw
+506,plaice,dark,0.795337211,mw
+507,plaice,dark,0.780314099,mw
+508,plaice,dark,0.764947945,mw
+509,plaice,dark,0.749267647,mw
+510,plaice,dark,0.733302716,mw
+511,plaice,dark,0.717083126,mw
+512,plaice,dark,0.700639158,mw
+513,plaice,dark,0.684001252,mw
+514,plaice,dark,0.667199855,mw
+515,plaice,dark,0.650265272,mw
+516,plaice,dark,0.63322753,mw
+517,plaice,dark,0.616116246,mw
+518,plaice,dark,0.598960497,mw
+519,plaice,dark,0.581788715,mw
+520,plaice,dark,0.564628575,mw
+521,plaice,dark,0.54750691,mw
+522,plaice,dark,0.530449626,mw
+523,plaice,dark,0.513481636,mw
+524,plaice,dark,0.496626805,mw
+525,plaice,dark,0.479907905,mw
+526,plaice,dark,0.463346583,mw
+527,plaice,dark,0.446963339,mw
+528,plaice,dark,0.430777512,mw
+529,plaice,dark,0.414807283,mw
+530,plaice,dark,0.399069676,mw
+531,plaice,dark,0.383580571,mw
+532,plaice,dark,0.368354727,mw
+533,plaice,dark,0.353405799,mw
+534,plaice,dark,0.338746371,mw
+535,plaice,dark,0.324387981,mw
+536,plaice,dark,0.310341154,mw
+537,plaice,dark,0.296615433,mw
+538,plaice,dark,0.283219409,mw
+539,plaice,dark,0.27016075,mw
+540,plaice,dark,0.257446225,mw
+541,plaice,dark,0.245081736,mw
+542,plaice,dark,0.233072332,mw
+543,plaice,dark,0.22142223,mw
+544,plaice,dark,0.210134832,mw
+545,plaice,dark,0.199212734,mw
+546,plaice,dark,0.18865774,mw
+547,plaice,dark,0.178470867,mw
+548,plaice,dark,0.168652351,mw
+549,plaice,dark,0.159201655,mw
+550,plaice,dark,0.150117475,mw
+551,plaice,dark,0.141397742,mw
+552,plaice,dark,0.133039635,mw
+553,plaice,dark,0.125039592,mw
+554,plaice,dark,0.11739332,mw
+555,plaice,dark,0.110095817,mw
+556,plaice,dark,0.103141392,mw
+557,plaice,dark,0.096523692,mw
+558,plaice,dark,0.090235737,mw
+559,plaice,dark,0.084269954,mw
+560,plaice,dark,0.078618221,mw
+561,plaice,dark,0.073271911,mw
+562,plaice,dark,0.068221947,mw
+563,plaice,dark,0.063458852,mw
+564,plaice,dark,0.058972807,mw
+565,plaice,dark,0.054753714,mw
+566,plaice,dark,0.050791249,mw
+567,plaice,dark,0.047074929,mw
+568,plaice,dark,0.043594166,mw
+569,plaice,dark,0.040338331,mw
+570,plaice,dark,0.037296806,mw
+571,plaice,dark,0.034459038,mw
+572,plaice,dark,0.031814593,mw
+573,plaice,dark,0.029353195,mw
+574,plaice,dark,0.027064774,mw
+575,plaice,dark,0.024939497,mw
+576,plaice,dark,0.022967808,mw
+577,plaice,dark,0.021140448,mw
+578,plaice,dark,0.019448483,mw
+579,plaice,dark,0.01788332,mw
+580,plaice,dark,0.016436722,mw
+581,plaice,dark,0.015100818,mw
+582,plaice,dark,0.013868107,mw
+583,plaice,dark,0.012731463,mw
+584,plaice,dark,0.011684134,mw
+585,plaice,dark,0.010719735,mw
+586,plaice,dark,0.00983225,mw
+587,plaice,dark,0.009016014,mw
+588,plaice,dark,0.00826571,mw
+589,plaice,dark,0.007576359,mw
+590,plaice,dark,0.006943301,mw
+591,plaice,dark,0.006362187,mw
+592,plaice,dark,0.005828964,mw
+593,plaice,dark,0.005339862,mw
+594,plaice,dark,0.004891376,mw
+595,plaice,dark,0.004480256,mw
+596,plaice,dark,0.004103488,mw
+597,plaice,dark,0.003758286,mw
+598,plaice,dark,0.003442071,mw
+599,plaice,dark,0.003152463,mw
+600,plaice,dark,0.002887267,mw
+601,plaice,dark,0.002644459,mw
+602,plaice,dark,0.002422173,mw
+603,plaice,dark,0.002218696,mw
+604,plaice,dark,0.002032449,mw
+605,plaice,dark,0.001861984,mw
+606,plaice,dark,0.001705968,mw
+607,plaice,dark,0.00156318,mw
+608,plaice,dark,0.0014325,mw
+609,plaice,dark,0.001312899,mw
+610,plaice,dark,0.001203435,mw
+611,plaice,dark,0.001103246,mw
+612,plaice,dark,0.001011541,mw
+613,plaice,dark,0.000927596,mw
+614,plaice,dark,0.000850749,mw
+615,plaice,dark,0.000780393,mw
+616,plaice,dark,0.000715975,mw
+617,plaice,dark,0.000656987,mw
+618,plaice,dark,0.000602965,mw
+619,plaice,dark,0.000553486,mw
+620,plaice,dark,0.00050816,mw
+621,plaice,dark,0.000466635,mw
+622,plaice,dark,0.000428586,mw
+623,plaice,dark,0.000393716,mw
+624,plaice,dark,0.000361756,mw
+625,plaice,dark,0.000332457,mw
+626,plaice,dark,0.000305593,mw
+627,plaice,dark,0.000280959,mw
+628,plaice,dark,0.000258364,mw
+629,plaice,dark,0.000237637,mw
+630,plaice,dark,0.000218619,mw
+631,plaice,dark,0.000201167,mw
+632,plaice,dark,0.000185148,mw
+633,plaice,dark,0.000170441,mw
+634,plaice,dark,0.000156938,mw
+635,plaice,dark,0.000144535,mw
+636,plaice,dark,0.000133143,mw
+637,plaice,dark,0.000122676,mw
+638,plaice,dark,0.000113057,mw
+639,plaice,dark,0.000104215,mw
+640,plaice,dark,9.61E-05,mw
+641,plaice,dark,8.86E-05,mw
+642,plaice,dark,8.17E-05,mw
+643,plaice,dark,7.54E-05,mw
+644,plaice,dark,6.96E-05,mw
+645,plaice,dark,6.42E-05,mw
+646,plaice,dark,5.93E-05,mw
+647,plaice,dark,5.48E-05,mw
+648,plaice,dark,5.06E-05,mw
+649,plaice,dark,4.67E-05,mw
+650,plaice,dark,4.32E-05,mw
+651,plaice,dark,3.99E-05,mw
+652,plaice,dark,3.69E-05,mw
+653,plaice,dark,3.41E-05,mw
+654,plaice,dark,3.16E-05,mw
+655,plaice,dark,2.92E-05,mw
+656,plaice,dark,2.70E-05,mw
+657,plaice,dark,2.50E-05,mw
+658,plaice,dark,2.32E-05,mw
+659,plaice,dark,2.14E-05,mw
+660,plaice,dark,1.99E-05,mw
+661,plaice,dark,1.84E-05,mw
+662,plaice,dark,1.70E-05,mw
+663,plaice,dark,1.58E-05,mw
+664,plaice,dark,1.46E-05,mw
+665,plaice,dark,1.36E-05,mw
+666,plaice,dark,1.26E-05,mw
+667,plaice,dark,1.17E-05,mw
+668,plaice,dark,1.08E-05,mw
+669,plaice,dark,1.01E-05,mw
+670,plaice,dark,9.33E-06,mw
+671,plaice,dark,8.67E-06,mw
+672,plaice,dark,8.05E-06,mw
+673,plaice,dark,7.47E-06,mw
+674,plaice,dark,6.94E-06,mw
+675,plaice,dark,6.45E-06,mw
+676,plaice,dark,6.00E-06,mw
+677,plaice,dark,5.57E-06,mw
+678,plaice,dark,5.18E-06,mw
+679,plaice,dark,4.82E-06,mw
+680,plaice,dark,4.48E-06,mw
+681,plaice,dark,4.17E-06,mw
+682,plaice,dark,3.88E-06,mw
+683,plaice,dark,3.61E-06,mw
+684,plaice,dark,3.36E-06,mw
+685,plaice,dark,3.13E-06,mw
+686,plaice,dark,2.92E-06,mw
+687,plaice,dark,2.72E-06,mw
+688,plaice,dark,2.53E-06,mw
+689,plaice,dark,2.36E-06,mw
+690,plaice,dark,2.20E-06,mw
+691,plaice,dark,2.05E-06,mw
+692,plaice,dark,1.91E-06,mw
+693,plaice,dark,1.78E-06,mw
+694,plaice,dark,1.66E-06,mw
+695,plaice,dark,1.55E-06,mw
+696,plaice,dark,1.45E-06,mw
+697,plaice,dark,1.35E-06,mw
+698,plaice,dark,1.26E-06,mw
+699,plaice,dark,1.18E-06,mw
+700,plaice,dark,1.10E-06,mw
+300,plaice,dark,0.099701741,lw
+301,plaice,dark,0.102445456,lw
+302,plaice,dark,0.105223673,lw
+303,plaice,dark,0.108035136,lw
+304,plaice,dark,0.110878515,lw
+305,plaice,dark,0.11375241,lw
+306,plaice,dark,0.116655344,lw
+307,plaice,dark,0.119585773,lw
+308,plaice,dark,0.122542077,lw
+309,plaice,dark,0.12552257,lw
+310,plaice,dark,0.128525493,lw
+311,plaice,dark,0.13154902,lw
+312,plaice,dark,0.134591257,lw
+313,plaice,dark,0.137650246,lw
+314,plaice,dark,0.140723962,lw
+315,plaice,dark,0.143810319,lw
+316,plaice,dark,0.146907172,lw
+317,plaice,dark,0.150012316,lw
+318,plaice,dark,0.15312349,lw
+319,plaice,dark,0.15623838,lw
+320,plaice,dark,0.15935462,lw
+321,plaice,dark,0.162469796,lw
+322,plaice,dark,0.165581449,lw
+323,plaice,dark,0.168687078,lw
+324,plaice,dark,0.171784141,lw
+325,plaice,dark,0.174870061,lw
+326,plaice,dark,0.177942231,lw
+327,plaice,dark,0.180998011,lw
+328,plaice,dark,0.184034738,lw
+329,plaice,dark,0.187049729,lw
+330,plaice,dark,0.190040282,lw
+331,plaice,dark,0.193003682,lw
+332,plaice,dark,0.195937205,lw
+333,plaice,dark,0.198838122,lw
+334,plaice,dark,0.201703705,lw
+335,plaice,dark,0.204531228,lw
+336,plaice,dark,0.207317975,lw
+337,plaice,dark,0.210061241,lw
+338,plaice,dark,0.21275834,lw
+339,plaice,dark,0.215406608,lw
+340,plaice,dark,0.218003407,lw
+341,plaice,dark,0.22054613,lw
+342,plaice,dark,0.223032207,lw
+343,plaice,dark,0.225459109,lw
+344,plaice,dark,0.22782435,lw
+345,plaice,dark,0.230125495,lw
+346,plaice,dark,0.232360165,lw
+347,plaice,dark,0.234526037,lw
+348,plaice,dark,0.236620853,lw
+349,plaice,dark,0.238642422,lw
+350,plaice,dark,0.240588625,lw
+351,plaice,dark,0.24245742,lw
+352,plaice,dark,0.244246845,lw
+353,plaice,dark,0.24595502,lw
+354,plaice,dark,0.247580157,lw
+355,plaice,dark,0.249120557,lw
+356,plaice,dark,0.250574617,lw
+357,plaice,dark,0.251940833,lw
+358,plaice,dark,0.253217805,lw
+359,plaice,dark,0.254404235,lw
+360,plaice,dark,0.255498936,lw
+361,plaice,dark,0.256500831,lw
+362,plaice,dark,0.257408957,lw
+363,plaice,dark,0.258222468,lw
+364,plaice,dark,0.258940634,lw
+365,plaice,dark,0.259562848,lw
+366,plaice,dark,0.260088623,lw
+367,plaice,dark,0.260517599,lw
+368,plaice,dark,0.260849537,lw
+369,plaice,dark,0.261084327,lw
+370,plaice,dark,0.261221986,lw
+371,plaice,dark,0.261262659,lw
+372,plaice,dark,0.261206619,lw
+373,plaice,dark,0.261054269,lw
+374,plaice,dark,0.26080614,lw
+375,plaice,dark,0.260462892,lw
+376,plaice,dark,0.260025313,lw
+377,plaice,dark,0.259494321,lw
+378,plaice,dark,0.258870958,lw
+379,plaice,dark,0.258156395,lw
+380,plaice,dark,0.257351927,lw
+381,plaice,dark,0.256458971,lw
+382,plaice,dark,0.255479068,lw
+383,plaice,dark,0.254413879,lw
+384,plaice,dark,0.253265181,lw
+385,plaice,dark,0.252034871,lw
+386,plaice,dark,0.250724955,lw
+387,plaice,dark,0.249337554,lw
+388,plaice,dark,0.247874897,lw
+389,plaice,dark,0.246339317,lw
+390,plaice,dark,0.244733252,lw
+391,plaice,dark,0.24305924,lw
+392,plaice,dark,0.241319913,lw
+393,plaice,dark,0.239518,lw
+394,plaice,dark,0.237656318,lw
+395,plaice,dark,0.235737772,lw
+396,plaice,dark,0.233765349,lw
+397,plaice,dark,0.231742115,lw
+398,plaice,dark,0.229671214,lw
+399,plaice,dark,0.227555861,lw
+400,plaice,dark,0.225399337,lw
+401,plaice,dark,0.223204993,lw
+402,plaice,dark,0.220976234,lw
+403,plaice,dark,0.218716528,lw
+404,plaice,dark,0.216429391,lw
+405,plaice,dark,0.214118392,lw
+406,plaice,dark,0.211787143,lw
+407,plaice,dark,0.209439298,lw
+408,plaice,dark,0.207078551,lw
+409,plaice,dark,0.204708626,lw
+410,plaice,dark,0.202333282,lw
+411,plaice,dark,0.199956301,lw
+412,plaice,dark,0.197581489,lw
+413,plaice,dark,0.195212675,lw
+414,plaice,dark,0.1928537,lw
+415,plaice,dark,0.190508421,lw
+416,plaice,dark,0.188180703,lw
+417,plaice,dark,0.18587442,lw
+418,plaice,dark,0.183593446,lw
+419,plaice,dark,0.18134166,lw
+420,plaice,dark,0.179122934,lw
+421,plaice,dark,0.17694114,lw
+422,plaice,dark,0.174800139,lw
+423,plaice,dark,0.172703782,lw
+424,plaice,dark,0.170655909,lw
+425,plaice,dark,0.168660344,lw
+426,plaice,dark,0.166720893,lw
+427,plaice,dark,0.164841346,lw
+428,plaice,dark,0.163025467,lw
+429,plaice,dark,0.161276999,lw
+430,plaice,dark,0.159599661,lw
+431,plaice,dark,0.157997142,lw
+432,plaice,dark,0.156473105,lw
+433,plaice,dark,0.155031181,lw
+434,plaice,dark,0.153674969,lw
+435,plaice,dark,0.152408037,lw
+436,plaice,dark,0.151233914,lw
+437,plaice,dark,0.150156097,lw
+438,plaice,dark,0.149178043,lw
+439,plaice,dark,0.148303171,lw
+440,plaice,dark,0.147534858,lw
+441,plaice,dark,0.146876443,lw
+442,plaice,dark,0.146331219,lw
+443,plaice,dark,0.145902436,lw
+444,plaice,dark,0.145593299,lw
+445,plaice,dark,0.145406966,lw
+446,plaice,dark,0.145346547,lw
+447,plaice,dark,0.145415102,lw
+448,plaice,dark,0.145615641,lw
+449,plaice,dark,0.145951119,lw
+450,plaice,dark,0.14642444,lw
+451,plaice,dark,0.14703845,lw
+452,plaice,dark,0.147795939,lw
+453,plaice,dark,0.148699635,lw
+454,plaice,dark,0.149752207,lw
+455,plaice,dark,0.150956258,lw
+456,plaice,dark,0.152314327,lw
+457,plaice,dark,0.153828882,lw
+458,plaice,dark,0.155502324,lw
+459,plaice,dark,0.157336976,lw
+460,plaice,dark,0.159335088,lw
+461,plaice,dark,0.161498829,lw
+462,plaice,dark,0.163830285,lw
+463,plaice,dark,0.166331458,lw
+464,plaice,dark,0.169004259,lw
+465,plaice,dark,0.171850508,lw
+466,plaice,dark,0.174871926,lw
+467,plaice,dark,0.178070136,lw
+468,plaice,dark,0.181446655,lw
+469,plaice,dark,0.185002894,lw
+470,plaice,dark,0.188740148,lw
+471,plaice,dark,0.192659597,lw
+472,plaice,dark,0.196762301,lw
+473,plaice,dark,0.20104919,lw
+474,plaice,dark,0.205521066,lw
+475,plaice,dark,0.210178597,lw
+476,plaice,dark,0.215022309,lw
+477,plaice,dark,0.220052583,lw
+478,plaice,dark,0.225269654,lw
+479,plaice,dark,0.230673599,lw
+480,plaice,dark,0.236264341,lw
+481,plaice,dark,0.242041635,lw
+482,plaice,dark,0.248005074,lw
+483,plaice,dark,0.254154074,lw
+484,plaice,dark,0.26048788,lw
+485,plaice,dark,0.267005553,lw
+486,plaice,dark,0.273705974,lw
+487,plaice,dark,0.280587833,lw
+488,plaice,dark,0.287649632,lw
+489,plaice,dark,0.294889678,lw
+490,plaice,dark,0.302306084,lw
+491,plaice,dark,0.309896761,lw
+492,plaice,dark,0.317659421,lw
+493,plaice,dark,0.325591572,lw
+494,plaice,dark,0.333690519,lw
+495,plaice,dark,0.341953362,lw
+496,plaice,dark,0.350376994,lw
+497,plaice,dark,0.358958103,lw
+498,plaice,dark,0.367693173,lw
+499,plaice,dark,0.376578479,lw
+500,plaice,dark,0.385610098,lw
+501,plaice,dark,0.3947839,lw
+502,plaice,dark,0.404095558,lw
+503,plaice,dark,0.413540546,lw
+504,plaice,dark,0.423114145,lw
+505,plaice,dark,0.432811443,lw
+506,plaice,dark,0.442627341,lw
+507,plaice,dark,0.452556557,lw
+508,plaice,dark,0.462593631,lw
+509,plaice,dark,0.472732928,lw
+510,plaice,dark,0.482968644,lw
+511,plaice,dark,0.493294813,lw
+512,plaice,dark,0.503705311,lw
+513,plaice,dark,0.514193862,lw
+514,plaice,dark,0.524754045,lw
+515,plaice,dark,0.535379301,lw
+516,plaice,dark,0.546062937,lw
+517,plaice,dark,0.556798137,lw
+518,plaice,dark,0.567577962,lw
+519,plaice,dark,0.578395364,lw
+520,plaice,dark,0.589243188,lw
+521,plaice,dark,0.600114178,lw
+522,plaice,dark,0.611000987,lw
+523,plaice,dark,0.621896182,lw
+524,plaice,dark,0.632792249,lw
+525,plaice,dark,0.643681598,lw
+526,plaice,dark,0.654556572,lw
+527,plaice,dark,0.66540945,lw
+528,plaice,dark,0.676232454,lw
+529,plaice,dark,0.687017751,lw
+530,plaice,dark,0.69775746,lw
+531,plaice,dark,0.708443654,lw
+532,plaice,dark,0.719068367,lw
+533,plaice,dark,0.729623593,lw
+534,plaice,dark,0.740101292,lw
+535,plaice,dark,0.750493394,lw
+536,plaice,dark,0.760791795,lw
+537,plaice,dark,0.770988367,lw
+538,plaice,dark,0.781074953,lw
+539,plaice,dark,0.791043372,lw
+540,plaice,dark,0.800885419,lw
+541,plaice,dark,0.810592866,lw
+542,plaice,dark,0.82015746,lw
+543,plaice,dark,0.829570927,lw
+544,plaice,dark,0.838824971,lw
+545,plaice,dark,0.847911274,lw
+546,plaice,dark,0.856821495,lw
+547,plaice,dark,0.865547271,lw
+548,plaice,dark,0.874080221,lw
+549,plaice,dark,0.882411939,lw
+550,plaice,dark,0.890534003,lw
+551,plaice,dark,0.89843797,lw
+552,plaice,dark,0.906115383,lw
+553,plaice,dark,0.913557767,lw
+554,plaice,dark,0.920756639,lw
+555,plaice,dark,0.927703508,lw
+556,plaice,dark,0.934389879,lw
+557,plaice,dark,0.940807258,lw
+558,plaice,dark,0.946947163,lw
+559,plaice,dark,0.952801128,lw
+560,plaice,dark,0.958360709,lw
+561,plaice,dark,0.963617503,lw
+562,plaice,dark,0.968563148,lw
+563,plaice,dark,0.973189347,lw
+564,plaice,dark,0.977487874,lw
+565,plaice,dark,0.981450595,lw
+566,plaice,dark,0.985069485,lw
+567,plaice,dark,0.988336643,lw
+568,plaice,dark,0.991244319,lw
+569,plaice,dark,0.993784935,lw
+570,plaice,dark,0.995951104,lw
+571,plaice,dark,0.997735665,lw
+572,plaice,dark,0.999131702,lw
+573,plaice,dark,1.000132579,lw
+574,plaice,dark,1.000731968,lw
+575,plaice,dark,1.00092388,lw
+576,plaice,dark,1.000702698,lw
+577,plaice,dark,1.000063215,lw
+578,plaice,dark,0.999000662,lw
+579,plaice,dark,0.997510747,lw
+580,plaice,dark,0.995589692,lw
+581,plaice,dark,0.993234262,lw
+582,plaice,dark,0.99044181,lw
+583,plaice,dark,0.987210302,lw
+584,plaice,dark,0.983538356,lw
+585,plaice,dark,0.979425275,lw
+586,plaice,dark,0.974871075,lw
+587,plaice,dark,0.969876516,lw
+588,plaice,dark,0.964443125,lw
+589,plaice,dark,0.958573227,lw
+590,plaice,dark,0.952269958,lw
+591,plaice,dark,0.945537286,lw
+592,plaice,dark,0.938380026,lw
+593,plaice,dark,0.930803844,lw
+594,plaice,dark,0.922815271,lw
+595,plaice,dark,0.914421693,lw
+596,plaice,dark,0.905631355,lw
+597,plaice,dark,0.896453349,lw
+598,plaice,dark,0.8868976,lw
+599,plaice,dark,0.876974846,lw
+600,plaice,dark,0.866696615,lw
+601,plaice,dark,0.856075197,lw
+602,plaice,dark,0.845123606,lw
+603,plaice,dark,0.833855547,lw
+604,plaice,dark,0.822285366,lw
+605,plaice,dark,0.810428011,lw
+606,plaice,dark,0.798298974,lw
+607,plaice,dark,0.78591424,lw
+608,plaice,dark,0.773290229,lw
+609,plaice,dark,0.76044374,lw
+610,plaice,dark,0.747391882,lw
+611,plaice,dark,0.734152018,lw
+612,plaice,dark,0.720741698,lw
+613,plaice,dark,0.707178597,lw
+614,plaice,dark,0.693480449,lw
+615,plaice,dark,0.679664985,lw
+616,plaice,dark,0.665749872,lw
+617,plaice,dark,0.651752655,lw
+618,plaice,dark,0.637690692,lw
+619,plaice,dark,0.62358111,lw
+620,plaice,dark,0.609440744,lw
+621,plaice,dark,0.595286095,lw
+622,plaice,dark,0.581133279,lw
+623,plaice,dark,0.566997995,lw
+624,plaice,dark,0.552895479,lw
+625,plaice,dark,0.538840479,lw
+626,plaice,dark,0.524847222,lw
+627,plaice,dark,0.510929393,lw
+628,plaice,dark,0.497100115,lw
+629,plaice,dark,0.483371933,lw
+630,plaice,dark,0.469756804,lw
+631,plaice,dark,0.456266088,lw
+632,plaice,dark,0.442910546,lw
+633,plaice,dark,0.42970034,lw
+634,plaice,dark,0.416645034,lw
+635,plaice,dark,0.403753602,lw
+636,plaice,dark,0.391034438,lw
+637,plaice,dark,0.378495363,lw
+638,plaice,dark,0.366143642,lw
+639,plaice,dark,0.353985994,lw
+640,plaice,dark,0.342028616,lw
+641,plaice,dark,0.330277189,lw
+642,plaice,dark,0.318736906,lw
+643,plaice,dark,0.307412484,lw
+644,plaice,dark,0.296308184,lw
+645,plaice,dark,0.285427829,lw
+646,plaice,dark,0.274774822,lw
+647,plaice,dark,0.264352164,lw
+648,plaice,dark,0.254162466,lw
+649,plaice,dark,0.244207972,lw
+650,plaice,dark,0.234490564,lw
+651,plaice,dark,0.225011783,lw
+652,plaice,dark,0.215772838,lw
+653,plaice,dark,0.206774614,lw
+654,plaice,dark,0.198017688,lw
+655,plaice,dark,0.189502329,lw
+656,plaice,dark,0.181228511,lw
+657,plaice,dark,0.173195918,lw
+658,plaice,dark,0.165403947,lw
+659,plaice,dark,0.157851714,lw
+660,plaice,dark,0.150538058,lw
+661,plaice,dark,0.143461543,lw
+662,plaice,dark,0.136620463,lw
+663,plaice,dark,0.130012845,lw
+664,plaice,dark,0.123636448,lw
+665,plaice,dark,0.117488775,lw
+666,plaice,dark,0.111567069,lw
+667,plaice,dark,0.105868324,lw
+668,plaice,dark,0.100389288,lw
+669,plaice,dark,0.09512647,lw
+670,plaice,dark,0.090076149,lw
+671,plaice,dark,0.085234385,lw
+672,plaice,dark,0.080597025,lw
+673,plaice,dark,0.076159719,lw
+674,plaice,dark,0.071917931,lw
+675,plaice,dark,0.067866953,lw
+676,plaice,dark,0.064001921,lw
+677,plaice,dark,0.060317833,lw
+678,plaice,dark,0.05680956,lw
+679,plaice,dark,0.05347187,lw
+680,plaice,dark,0.050299443,lw
+681,plaice,dark,0.047286891,lw
+682,plaice,dark,0.044428773,lw
+683,plaice,dark,0.041719621,lw
+684,plaice,dark,0.039153948,lw
+685,plaice,dark,0.036726276,lw
+686,plaice,dark,0.034431146,lw
+687,plaice,dark,0.03226314,lw
+688,plaice,dark,0.030216892,lw
+689,plaice,dark,0.028287107,lw
+690,plaice,dark,0.026468573,lw
+691,plaice,dark,0.024756171,lw
+692,plaice,dark,0.023144892,lw
+693,plaice,dark,0.021629845,lw
+694,plaice,dark,0.020206262,lw
+695,plaice,dark,0.018869512,lw
+696,plaice,dark,0.017615104,lw
+697,plaice,dark,0.016438693,lw
+698,plaice,dark,0.015336085,lw
+699,plaice,dark,0.014303238,lw
+700,plaice,dark,0.013336267,lw
+300,plaice,dark,0.120176688,rod
+301,plaice,dark,0.123611084,rod
+302,plaice,dark,0.127077474,rod
+303,plaice,dark,0.130573115,rod
+304,plaice,dark,0.134095139,rod
+305,plaice,dark,0.137640565,rod
+306,plaice,dark,0.141206296,rod
+307,plaice,dark,0.144789125,rod
+308,plaice,dark,0.148385738,rod
+309,plaice,dark,0.151992721,rod
+310,plaice,dark,0.155606561,rod
+311,plaice,dark,0.159223657,rod
+312,plaice,dark,0.162840319,rod
+313,plaice,dark,0.166452778,rod
+314,plaice,dark,0.170057193,rod
+315,plaice,dark,0.173649657,rod
+316,plaice,dark,0.1772262,rod
+317,plaice,dark,0.180782805,rod
+318,plaice,dark,0.184315408,rod
+319,plaice,dark,0.18781991,rod
+320,plaice,dark,0.191292182,rod
+321,plaice,dark,0.19472808,rod
+322,plaice,dark,0.198123446,rod
+323,plaice,dark,0.201474123,rod
+324,plaice,dark,0.204775961,rod
+325,plaice,dark,0.208024827,rod
+326,plaice,dark,0.211216616,rod
+327,plaice,dark,0.214347259,rod
+328,plaice,dark,0.217412732,rod
+329,plaice,dark,0.220409069,rod
+330,plaice,dark,0.223332368,rod
+331,plaice,dark,0.226178804,rod
+332,plaice,dark,0.228944636,rod
+333,plaice,dark,0.231626219,rod
+334,plaice,dark,0.234220013,rod
+335,plaice,dark,0.23672259,rod
+336,plaice,dark,0.239130647,rod
+337,plaice,dark,0.241441015,rod
+338,plaice,dark,0.243650663,rod
+339,plaice,dark,0.245756714,rod
+340,plaice,dark,0.247756447,rod
+341,plaice,dark,0.249647309,rod
+342,plaice,dark,0.251426921,rod
+343,plaice,dark,0.253093089,rod
+344,plaice,dark,0.254643804,rod
+345,plaice,dark,0.256077256,rod
+346,plaice,dark,0.257391836,rod
+347,plaice,dark,0.258586146,rod
+348,plaice,dark,0.259658997,rod
+349,plaice,dark,0.260609424,rod
+350,plaice,dark,0.261436681,rod
+351,plaice,dark,0.262140252,rod
+352,plaice,dark,0.26271985,rod
+353,plaice,dark,0.263175424,rod
+354,plaice,dark,0.263507156,rod
+355,plaice,dark,0.263715468,rod
+356,plaice,dark,0.263801022,rod
+357,plaice,dark,0.263764719,rod
+358,plaice,dark,0.263607703,rod
+359,plaice,dark,0.263331355,rod
+360,plaice,dark,0.262937298,rod
+361,plaice,dark,0.262427394,rod
+362,plaice,dark,0.26180374,rod
+363,plaice,dark,0.261068667,rod
+364,plaice,dark,0.26022474,rod
+365,plaice,dark,0.25927475,rod
+366,plaice,dark,0.258221713,rod
+367,plaice,dark,0.257068865,rod
+368,plaice,dark,0.255819658,rod
+369,plaice,dark,0.254477755,rod
+370,plaice,dark,0.253047023,rod
+371,plaice,dark,0.251531527,rod
+372,plaice,dark,0.249935527,rod
+373,plaice,dark,0.248263469,rod
+374,plaice,dark,0.246519976,rod
+375,plaice,dark,0.244709845,rod
+376,plaice,dark,0.242838038,rod
+377,plaice,dark,0.240909673,rod
+378,plaice,dark,0.238930017,rod
+379,plaice,dark,0.236904479,rod
+380,plaice,dark,0.234838601,rod
+381,plaice,dark,0.232738046,rod
+382,plaice,dark,0.230608597,rod
+383,plaice,dark,0.228456141,rod
+384,plaice,dark,0.226286666,rod
+385,plaice,dark,0.224106248,rod
+386,plaice,dark,0.221921044,rod
+387,plaice,dark,0.219737284,rod
+388,plaice,dark,0.21756126,rod
+389,plaice,dark,0.215399321,rod
+390,plaice,dark,0.21325786,rod
+391,plaice,dark,0.21114331,rod
+392,plaice,dark,0.209062129,rod
+393,plaice,dark,0.2070208,rod
+394,plaice,dark,0.205025815,rod
+395,plaice,dark,0.203083672,rod
+396,plaice,dark,0.201200866,rod
+397,plaice,dark,0.199383876,rod
+398,plaice,dark,0.197639167,rod
+399,plaice,dark,0.195973173,rod
+400,plaice,dark,0.194392295,rod
+401,plaice,dark,0.192902891,rod
+402,plaice,dark,0.191511271,rod
+403,plaice,dark,0.190223689,rod
+404,plaice,dark,0.189046336,rod
+405,plaice,dark,0.187985331,rod
+406,plaice,dark,0.18704672,rod
+407,plaice,dark,0.186236464,rod
+408,plaice,dark,0.185560435,rod
+409,plaice,dark,0.185024411,rod
+410,plaice,dark,0.184634066,rod
+411,plaice,dark,0.184394968,rod
+412,plaice,dark,0.184312571,rod
+413,plaice,dark,0.184392206,rod
+414,plaice,dark,0.184639083,rod
+415,plaice,dark,0.185058278,rod
+416,plaice,dark,0.185654727,rod
+417,plaice,dark,0.186433226,rod
+418,plaice,dark,0.187398419,rod
+419,plaice,dark,0.188554796,rod
+420,plaice,dark,0.189906684,rod
+421,plaice,dark,0.191458245,rod
+422,plaice,dark,0.193213464,rod
+423,plaice,dark,0.195176149,rod
+424,plaice,dark,0.19734992,rod
+425,plaice,dark,0.199738208,rod
+426,plaice,dark,0.202344243,rod
+427,plaice,dark,0.205171051,rod
+428,plaice,dark,0.208221448,rod
+429,plaice,dark,0.21149803,rod
+430,plaice,dark,0.215003173,rod
+431,plaice,dark,0.218739019,rod
+432,plaice,dark,0.222707476,rod
+433,plaice,dark,0.226910206,rod
+434,plaice,dark,0.231348626,rod
+435,plaice,dark,0.236023892,rod
+436,plaice,dark,0.2409369,rod
+437,plaice,dark,0.24608828,rod
+438,plaice,dark,0.251478385,rod
+439,plaice,dark,0.257107288,rod
+440,plaice,dark,0.26297478,rod
+441,plaice,dark,0.269080358,rod
+442,plaice,dark,0.275423224,rod
+443,plaice,dark,0.282002281,rod
+444,plaice,dark,0.288816127,rod
+445,plaice,dark,0.295863052,rod
+446,plaice,dark,0.303141033,rod
+447,plaice,dark,0.310647734,rod
+448,plaice,dark,0.318380501,rod
+449,plaice,dark,0.326336363,rod
+450,plaice,dark,0.334512028,rod
+451,plaice,dark,0.342903884,rod
+452,plaice,dark,0.351507997,rod
+453,plaice,dark,0.360320118,rod
+454,plaice,dark,0.369335675,rod
+455,plaice,dark,0.378549784,rod
+456,plaice,dark,0.387957246,rod
+457,plaice,dark,0.397552554,rod
+458,plaice,dark,0.407329897,rod
+459,plaice,dark,0.417283162,rod
+460,plaice,dark,0.427405944,rod
+461,plaice,dark,0.437691552,rod
+462,plaice,dark,0.448133011,rod
+463,plaice,dark,0.458723078,rod
+464,plaice,dark,0.469454243,rod
+465,plaice,dark,0.480318743,rod
+466,plaice,dark,0.491308567,rod
+467,plaice,dark,0.50241547,rod
+468,plaice,dark,0.513630983,rod
+469,plaice,dark,0.524946419,rod
+470,plaice,dark,0.536352889,rod
+471,plaice,dark,0.547841311,rod
+472,plaice,dark,0.55940242,rod
+473,plaice,dark,0.571026781,rod
+474,plaice,dark,0.582704802,rod
+475,plaice,dark,0.594426739,rod
+476,plaice,dark,0.606182713,rod
+477,plaice,dark,0.617962717,rod
+478,plaice,dark,0.629756629,rod
+479,plaice,dark,0.64155422,rod
+480,plaice,dark,0.653345165,rod
+481,plaice,dark,0.66511905,rod
+482,plaice,dark,0.676865383,rod
+483,plaice,dark,0.6885736,rod
+484,plaice,dark,0.700233075,rod
+485,plaice,dark,0.711833122,rod
+486,plaice,dark,0.723363007,rod
+487,plaice,dark,0.734811947,rod
+488,plaice,dark,0.746169121,rod
+489,plaice,dark,0.757423669,rod
+490,plaice,dark,0.768564698,rod
+491,plaice,dark,0.779581283,rod
+492,plaice,dark,0.790462471,rod
+493,plaice,dark,0.801197282,rod
+494,plaice,dark,0.811774709,rod
+495,plaice,dark,0.82218372,rod
+496,plaice,dark,0.832413258,rod
+497,plaice,dark,0.842452242,rod
+498,plaice,dark,0.852289566,rod
+499,plaice,dark,0.8619141,rod
+500,plaice,dark,0.871314689,rod
+501,plaice,dark,0.880480155,rod
+502,plaice,dark,0.8893993,rod
+503,plaice,dark,0.898060903,rod
+504,plaice,dark,0.906453724,rod
+505,plaice,dark,0.914566512,rod
+506,plaice,dark,0.922388,rod
+507,plaice,dark,0.929906922,rod
+508,plaice,dark,0.93711201,rod
+509,plaice,dark,0.943992009,rod
+510,plaice,dark,0.950535686,rod
+511,plaice,dark,0.956731842,rod
+512,plaice,dark,0.962569327,rod
+513,plaice,dark,0.968037055,rod
+514,plaice,dark,0.973124031,rod
+515,plaice,dark,0.977819361,rod
+516,plaice,dark,0.982112289,rod
+517,plaice,dark,0.985992216,rod
+518,plaice,dark,0.989448735,rod
+519,plaice,dark,0.992471661,rod
+520,plaice,dark,0.99505107,rod
+521,plaice,dark,0.997177338,rod
+522,plaice,dark,0.998841179,rod
+523,plaice,dark,1.000033696,rod
+524,plaice,dark,1.000746423,rod
+525,plaice,dark,1.000971373,rod
+526,plaice,dark,1.000701096,rod
+527,plaice,dark,0.999928726,rod
+528,plaice,dark,0.998648037,rod
+529,plaice,dark,0.9968535,rod
+530,plaice,dark,0.994540336,rod
+531,plaice,dark,0.991704575,rod
+532,plaice,dark,0.988343107,rod
+533,plaice,dark,0.984453739,rod
+534,plaice,dark,0.980035245,rod
+535,plaice,dark,0.975087416,rod
+536,plaice,dark,0.969611107,rod
+537,plaice,dark,0.963608278,rod
+538,plaice,dark,0.95708203,rod
+539,plaice,dark,0.950036639,rod
+540,plaice,dark,0.942477584,rod
+541,plaice,dark,0.934411562,rod
+542,plaice,dark,0.925846504,rod
+543,plaice,dark,0.916791578,rod
+544,plaice,dark,0.907257188,rod
+545,plaice,dark,0.897254959,rod
+546,plaice,dark,0.88679772,rod
+547,plaice,dark,0.875899475,rod
+548,plaice,dark,0.864575362,rod
+549,plaice,dark,0.852841613,rod
+550,plaice,dark,0.840715493,rod
+551,plaice,dark,0.828215243,rod
+552,plaice,dark,0.815360009,rod
+553,plaice,dark,0.802169764,rod
+554,plaice,dark,0.788665226,rod
+555,plaice,dark,0.774867772,rod
+556,plaice,dark,0.760799343,rod
+557,plaice,dark,0.746482349,rod
+558,plaice,dark,0.731939572,rod
+559,plaice,dark,0.717194064,rod
+560,plaice,dark,0.70226905,rod
+561,plaice,dark,0.687187823,rod
+562,plaice,dark,0.671973651,rod
+563,plaice,dark,0.656649678,rod
+564,plaice,dark,0.641238835,rod
+565,plaice,dark,0.625763747,rod
+566,plaice,dark,0.610246658,rod
+567,plaice,dark,0.594709346,rod
+568,plaice,dark,0.579173056,rod
+569,plaice,dark,0.563658437,rod
+570,plaice,dark,0.548185481,rod
+571,plaice,dark,0.532773477,rod
+572,plaice,dark,0.517440968,rod
+573,plaice,dark,0.502205711,rod
+574,plaice,dark,0.487084657,rod
+575,plaice,dark,0.472093924,rod
+576,plaice,dark,0.457248786,rod
+577,plaice,dark,0.442563666,rod
+578,plaice,dark,0.428052131,rod
+579,plaice,dark,0.4137269,rod
+580,plaice,dark,0.399599853,rod
+581,plaice,dark,0.385682039,rod
+582,plaice,dark,0.3719837,rod
+583,plaice,dark,0.358514289,rod
+584,plaice,dark,0.345282489,rod
+585,plaice,dark,0.332296245,rod
+586,plaice,dark,0.319562786,rod
+587,plaice,dark,0.30708865,rod
+588,plaice,dark,0.294879716,rod
+589,plaice,dark,0.282941229,rod
+590,plaice,dark,0.271277826,rod
+591,plaice,dark,0.259893558,rod
+592,plaice,dark,0.248791922,rod
+593,plaice,dark,0.237975873,rod
+594,plaice,dark,0.227447851,rod
+595,plaice,dark,0.217209797,rod
+596,plaice,dark,0.207263167,rod
+597,plaice,dark,0.197608949,rod
+598,plaice,dark,0.188247672,rod
+599,plaice,dark,0.179179416,rod
+600,plaice,dark,0.170403824,rod
+601,plaice,dark,0.161920105,rod
+602,plaice,dark,0.15372704,rod
+603,plaice,dark,0.145822991,rod
+604,plaice,dark,0.138205902,rod
+605,plaice,dark,0.130873305,rod
+606,plaice,dark,0.123822328,rod
+607,plaice,dark,0.117049697,rod
+608,plaice,dark,0.110551748,rod
+609,plaice,dark,0.104324431,rod
+610,plaice,dark,0.098363327,rod
+611,plaice,dark,0.092663655,rod
+612,plaice,dark,0.087220291,rod
+613,plaice,dark,0.082027784,rod
+614,plaice,dark,0.077080376,rod
+615,plaice,dark,0.07237202,rod
+616,plaice,dark,0.067896411,rod
+617,plaice,dark,0.063647006,rod
+618,plaice,dark,0.059617052,rod
+619,plaice,dark,0.055799617,rod
+620,plaice,dark,0.05218762,rod
+621,plaice,dark,0.048773858,rod
+622,plaice,dark,0.045551041,rod
+623,plaice,dark,0.04251182,rod
+624,plaice,dark,0.03964882,rod
+625,plaice,dark,0.036954667,rod
+626,plaice,dark,0.034422019,rod
+627,plaice,dark,0.032043594,rod
+628,plaice,dark,0.029812192,rod
+629,plaice,dark,0.027720723,rod
+630,plaice,dark,0.025762228,rod
+631,plaice,dark,0.023929896,rod
+632,plaice,dark,0.022217087,rod
+633,plaice,dark,0.020617344,rod
+634,plaice,dark,0.019124404,rod
+635,plaice,dark,0.017732216,rod
+636,plaice,dark,0.016434942,rod
+637,plaice,dark,0.015226971,rod
+638,plaice,dark,0.014102916,rod
+639,plaice,dark,0.013057623,rod
+640,plaice,dark,0.012086172,rod
+641,plaice,dark,0.011183872,rod
+642,plaice,dark,0.010346263,rod
+643,plaice,dark,0.009569114,rod
+644,plaice,dark,0.008848416,rod
+645,plaice,dark,0.008180376,rod
+646,plaice,dark,0.007561417,rod
+647,plaice,dark,0.006988166,rod
+648,plaice,dark,0.006457449,rod
+649,plaice,dark,0.005966283,rod
+650,plaice,dark,0.005511871,rod
+651,plaice,dark,0.005091588,rod
+652,plaice,dark,0.004702981,rod
+653,plaice,dark,0.004343754,rod
+654,plaice,dark,0.004011763,rod
+655,plaice,dark,0.003705008,rod
+656,plaice,dark,0.003421626,rod
+657,plaice,dark,0.003159881,rod
+658,plaice,dark,0.002918157,rod
+659,plaice,dark,0.002694954,rod
+660,plaice,dark,0.002488876,rod
+661,plaice,dark,0.002298628,rod
+662,plaice,dark,0.00212301,rod
+663,plaice,dark,0.001960909,rod
+664,plaice,dark,0.001811291,rod
+665,plaice,dark,0.001673201,rod
+666,plaice,dark,0.001545755,rod
+667,plaice,dark,0.001428133,rod
+668,plaice,dark,0.00131958,rod
+669,plaice,dark,0.001219396,rod
+670,plaice,dark,0.001126932,rod
+671,plaice,dark,0.001041593,rod
+672,plaice,dark,0.000962825,rod
+673,plaice,dark,0.00089012,rod
+674,plaice,dark,0.000823008,rod
+675,plaice,dark,0.000761053,rod
+676,plaice,dark,0.000703856,rod
+677,plaice,dark,0.000651047,rod
+678,plaice,dark,0.000602285,rod
+679,plaice,dark,0.000557256,rod
+680,plaice,dark,0.00051567,rod
+681,plaice,dark,0.000477259,rod
+682,plaice,dark,0.000441778,rod
+683,plaice,dark,0.000408999,rod
+684,plaice,dark,0.000378713,rod
+685,plaice,dark,0.000350726,rod
+686,plaice,dark,0.000324861,rod
+687,plaice,dark,0.000300954,rod
+688,plaice,dark,0.000278853,rod
+689,plaice,dark,0.000258419,rod
+690,plaice,dark,0.000239524,rod
+691,plaice,dark,0.000222048,rod
+692,plaice,dark,0.000205884,rod
+693,plaice,dark,0.000190931,rod
+694,plaice,dark,0.000177095,rod
+695,plaice,dark,0.00016429,rod
+696,plaice,dark,0.00015244,rod
+697,plaice,dark,0.000141469,rod
+698,plaice,dark,0.000131312,rod
+699,plaice,dark,0.000121906,rod
+700,plaice,dark,0.000113195,rod
