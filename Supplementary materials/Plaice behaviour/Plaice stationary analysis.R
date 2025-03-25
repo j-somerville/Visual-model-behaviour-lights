@@ -455,6 +455,51 @@ summary(total)
 #optimizer (nloptwrap) convergence code: 0 (OK)
 #boundary (singular) fit: see help('isSingular')
 
+rb<-subset(stationary_side_new_activehalf,stationary_side_new_activehalf$light_colour=="royalblue")
+
+rb_table<-rb%>% 
+  group_by(light_mode) %>%
+  summarize_at(vars("sum.total2."), funs(mean, sd))
+rb_table
+
+##royal blue and red
+royalblue_time_plot<-ggplot(rb, aes(x=light_mode, y=sum.total2.)) + 
+  geom_boxplot(outlier.shape = NA,position=position_dodge(width=1), width=0.9)+
+  geom_point(position=position_jitter(width=0.1, height=.1), size=2)+
+  labs(x = "Royal blue light", 
+       y = "Stationary time (s)")+
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 1, vjust = 0.5, hjust=1))+
+  theme(text = element_text(size=15))+
+  theme(legend.title=element_blank())+
+  scale_fill_grey(start = 0.6, end = .9)
+royalblue_time_plot
+
+red<-subset(stationary_side_new_activehalf,stationary_side_new_activehalf$light_colour=="red")
+
+red_table<-red%>% 
+  group_by(light_mode) %>%
+  summarize_at(vars("sum.total2."), funs(mean, sd))
+red_table
+
+red_time_plot<-ggplot(red, aes(x=light_mode, y=sum.total2.)) + 
+  geom_boxplot(outlier.shape = NA,position=position_dodge(width=1), width=0.9)+
+  geom_point(position=position_jitter(width=0.1, height=.1), size=2)+
+  labs(x = "Red light", 
+       y = "Stationary time (s)")+
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 1, vjust = 0.5, hjust=1))+
+  theme(text = element_text(size=15))+
+  theme(legend.title=element_blank())+
+  scale_fill_grey(start = 0.6, end = .9)
+red_time_plot
+
+plaice<-ggarrange(royalblue_time_plot,  red_time_plot, ncol=2)
+plaice
+
+ggsave(filename = "plaice.png", plot = plaice, width = 12, height = 10, dpi = 300)
+
+
 ###light side variation
 pl<-ggplot(stationary_side_new_activehalf, aes(x=light_side, y=sum.total2.,shape=trial_number)) + 
   geom_boxplot(outlier.shape = NA,position=position_dodge(width=1), width=0.5)+
